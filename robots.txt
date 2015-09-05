@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /
+Disallow: /list/*.rar
+Allow: /index.php
 Allow: /list
 Host: www.geographycollector.com
