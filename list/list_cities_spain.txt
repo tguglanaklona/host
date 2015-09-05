@@ -1,0 +1,52 @@
+A Coruna
+Alacant
+Albacete
+Alcala de Henares
+Algeciras
+Almeria
+Badajoz
+Barcelona
+Bilbao
+Burgos
+Caceres
+Cadiz
+Cartagena
+Castelldefels
+Castello
+Cordoba
+Donostia
+Elche
+Elx
+Fuenlabrada
+Gijon
+Granada
+Huelva
+Igualada
+Iruna
+Jaen
+Jerez
+Las Palmas
+Leon
+Lleida
+Logrono
+Madrid
+Malaga
+Marbella
+Murcia
+Ourense
+Oviedo
+Palma
+Salamanca
+San Cristobal de la Laguna
+San Sebastian
+Santa Cruz de Tenerife
+Santander
+Santiago de Compostela
+Sevilla
+Tarragona
+Valencia
+Valladolid
+Vigo
+Vitoria
+Zaragoza
+Leioa

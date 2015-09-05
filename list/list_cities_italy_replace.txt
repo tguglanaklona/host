@@ -1,0 +1,17 @@
+Torino # Turin
+Genova # Genoa
+Firenze # Florence
+Enna # Enna
+Roma # Rome
+Rende # Rende
+Castellanza # Castellanza
+napoli # Naples
+Cassino # Cassino
+Coppito-L’Aquila # L'Aquila
+Bauli # Bacoli
+Vàcule # Bacoli
+Vacule # Bacoli
+Bacoli # Bacoli
+Padova # Padua
+Frascati # Frascati
+Povo # Trento

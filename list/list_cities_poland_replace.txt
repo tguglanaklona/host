@@ -1,0 +1,10 @@
+L'OD'Z # LODZ
+Warsaw # Warszawa
+Białystok # Bialystok
+Kraków # Krakow
+Nowy Sącz # Nowy Sacz
+Poznań # Poznan
+Częstochowa # Czestochowa
+Rzeszów # Rzeszow
+Gdańsk # Gdansk
+Zielona Góra # Zielona Gora

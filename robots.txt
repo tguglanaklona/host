@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+/.idea
+/list/*.rar
+/perl
+/shared
+sniff.php
+vk.php
+Host: www.geographycollector.com

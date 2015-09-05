@@ -1,0 +1,116 @@
+Abbotsford
+Amos
+Baie Verte
+Baie-Comeau
+Baie-Saint-Paul
+Becancour
+Belleterre
+Blind River
+Bracebridge
+Brampton
+Burnaby
+Caledon
+Calgary
+Cape Breton
+Chalk River
+Chandler
+Chibougamau
+Chicoutimi
+Clarence-Rockland
+Cochrane
+Cookshire-Eaton
+County of Brant
+Degelis
+Devon
+Dolbeau-Mistassini
+Edmonton
+Elliot Lake
+Erin
+Essex
+Fermont
+Fort McMurray
+Gaspe
+Gatineau
+Georgina
+Gillam
+Gracefield
+Gravenhurst
+Greater Napanee
+Greater Sudbury
+Guelph
+Haldimand County
+Halifax
+Halton Hills
+Hamilton
+Happy Valley-Goose Bay
+Huntsville
+Innisfil
+Iroquois Falls
+Kamloops
+Kawartha Lakes
+Kearney
+Kingston
+La Malbaie
+La Tuque
+Lakeshore
+Laurentian Hills
+Leaf Rapids
+Levis
+London
+Longueuil
+Lynn Lake
+Milton
+Minto
+Mirabel
+Mississauga
+Mississippi Mills
+Markham
+Moncton
+Mono
+Mont-Laurier
+Montreal
+New Tecumseth
+Norfolk County
+North Bay
+Northeastern Manitoulin and the Islands
+Ottawa
+Perce
+Plympton-Wyoming
+Pohenegamook
+Port-Cartier
+Prince Edward County
+Prince George
+Quebec City
+Queens
+Quinte West
+Regina
+Rimouski
+Riviere-Rouge
+Rouyn-Noranda
+Saguenay
+Saint John
+Saint-Felicien
+Saint-Raymond
+Senneterre
+Sept-lles
+Shawinigan
+Sherbrooke
+Snow Lake
+South Bruce Peninsula
+St. Catharines
+St. John's
+Surrey
+Temiscaming
+The Blue Mountains
+Thunder Bay
+Timmins
+Toronto
+Trois-Rivieres
+Val-d'Or
+Vancouver
+Vaughan
+Victoria
+Waterloo
+Whitehorse
+Windsor
+Winnipeg

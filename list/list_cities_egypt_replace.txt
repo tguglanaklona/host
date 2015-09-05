@@ -1,0 +1,20 @@
+Beni-Suef # Beni Suef
+Mansoura # al-Mansura
+Assiut # Asyut
+Assuit # Asyut
+Benha # Banha
+Damanhour # Damanhur
+Minia # al-Minya
+Minya # al-Minya
+Beni-Sueif # Beni Suef
+Hilwan # Helwan
+Hulwan # Helwan
+Holwan # Helwan
+Helwan # Helwan
+El-Minia # Al-Minya
+Fayoum # Fayyum
+Faiyum # Fayyum
+el-Fayyum # Fayyum
+el-Fayyūm # Fayyum
+Menuf # Menouf
+Menouf # Menouf

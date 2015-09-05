@@ -1,0 +1,401 @@
+Munchen # Munich
+Koln # Cologne
+Hannover # Hanover
+Nurnberg # Nuremberg
+Braunschweig # Brunswig
+D"usseldorf # Dusseldorf
+EICHST"ATT # Eichstatt
+Garching # Garching
+Frankfurt # Frankfurt am Main
+Marburg # Marburg
+Giessen # Giessen
+Münster # Munster
+Geesthacht # Geesthacht
+Institute for Bioprocessing and Analytical Measurements Techniques # Heilbad Heiligenstadt
+Aschaffenburg # Aschaffenburg
+University of Muenster # Munster
+Wetzlar # Wetzlar
+Unstrut # Artern
+Bad Frankenhausen/Kyffhäuser # Bad Frankenhausen
+Bad Frankenhausen/Kyffhauser # Bad Frankenhausen
+Bad-Frankenhausen-Kyffhauser # Bad Frankenhausen
+Mark # Baruth
+Berga/Elster # Berga
+Eislingen/Fils # Eislingen
+Eislingen-Fils # Eislingen
+Werra # Berka
+Bernstadt a. d. Eigen # Bernstadt a.d. Eigen
+Boizenburg/ Elbe # Boizenburg/Elbe
+Friedland, Mecklenburg-Vorpommern # Friedland, Mecklenburg
+Friedland, Mecklenburg-Western Pomerania # Friedland, Mecklenburg
+Lorch, Baden-Württemberg # Lorch, Württemberg
+München # Munich
+Reichenbach/Oberlausitz # Reichenbach/O.L.
+Rottenburg a.d.Laaber # Rottenburg a.d. Laaber
+Hessen # Wetter, Hesse
+Altdorf bei Nürnberg # Altdorf bei Nurnberg
+Altötting # Altotting
+Amöneburg # Amoneburg
+Angermünde # Angermunde
+Aßlar # Asslar
+Bad Brückenau # Bad Bruckenau
+Bad Düben # Bad Duben
+Bad Dürkheim # Bad Durkheim
+Bad Dürrenberg # Bad Durrenberg
+Bad Dürrheim # Bad Durrheim
+Bad Frankenhausen/Kyffhäuser # Bad Frankenhausen/Kyffhauser
+Bad Gottleuba-Berggießhübel # Bad Gottleuba-Berggiesshubel
+Bad Homburg vor der Höhe # Bad Homburg vor der Hohe
+Bad Hönningen # Bad Honningen
+Bad König # Bad Konig
+Bad Königshofen im Grabfeld # Bad Konigshofen im Grabfeld
+Bad Köstritz # Bad Kostritz
+Bad Kötzting # Bad Kotzting
+Bad Lauchstädt # Bad Lauchstadt
+Bad Münder am Deister # Bad Munder am Deister
+Bad Münster am Stein-Ebernburg # Bad Munster am Stein-Ebernburg
+Bad Münstereifel # Bad Munstereifel
+Bad Säckingen # Bad Sackingen
+Bad Soden-Salmünster # Bad Soden-Salmunster
+Bad Sülze # Bad Sulze
+Bad Tölz # Bad Tolz
+Bad Wörishofen # Bad Worishofen
+Bad Wünnenberg # Bad Wunnenberg
+Bärnau # Barnau
+Bergen auf Rügen # Bergen auf Rugen
+Bersenbrück # Bersenbruck
+Biberach an der Riß # Biberach an der Riss
+Bischofsheim an der Rhön # Bischofsheim an der Rhon
+Böblingen # Boblingen
+Böhlen # Bohlen
+Bönnigheim # Bonnigheim
+Bräunlingen # Braunlingen
+Bremervörde # Bremervorde
+Bruchköbel # Bruchkobel
+Brück # Bruck
+Brüel # Bruel
+Brühl # Bruhl
+Brunsbüttel # Brunsbuttel
+Brüssow # Brussow
+Bückeburg # Buckeburg
+Büdelsdorf # Budelsdorf
+Büdingen # Budingen
+Bühl # Buhl
+Bünde # Bunde
+Büren # Buren
+Bürgel # Burgel
+Burgstädt # Burgstadt
+Bürstadt # Burstadt
+Buttstädt # Buttstadt
+Bützow # Butzow
+Creußen # Creussen
+Delbrück # Delbruck
+Dessau-Roßlau # Dessau-Rosslau
+Dietfurt an der Altmühl # Dietfurt an der Altmuhl
+Dingelstädt # Dingelstadt
+Dinkelsbühl # Dinkelsbuhl
+Döbeln # Dobeln
+Döbern # Dobern
+Dömitz # Domitz
+Donauwörth # Donauworth
+Dülmen # Dulmen
+Düren # Duren
+Düsseldorf # Dusseldorf
+Eckernförde # Eckernforde
+Eichstätt # Eichstatt
+Eisenhüttenstadt # Eisenhuttenstadt
+Flöha # Floha
+Flörsheim am Main # Florsheim am Main
+Fröndenberg # Frondenberg
+Fürstenau # Furstenau
+Fürstenberg/Havel # Furstenberg/Havel
+Fürstenfeldbruck # Furstenfeldbruck
+Fürstenwalde # Furstenwalde
+Fürth # Furth
+Furth im Wald # Furth im Wald
+Füssen # Fussen
+Garching bei München # Garching bei Munchen
+Garz/Rügen # Garz/Rugen
+Geiselhöring # Geiselhoring
+Gemünden am Main # Gemunden am Main
+Gemünden # Gemunden
+Georgsmarienhütte # Georgsmarienhutte
+Gießen # Giessen
+Glashütte # Glashutte
+Glücksburg # Glucksburg
+Glückstadt # Gluckstadt
+Golßen # Golssen
+Göppingen # Goppingen
+Görlitz # Gorlitz
+Goslar # Goslar
+Gößnitz # Gossnitz
+Göttingen # Gottingen
+Gräfenberg # Grafenberg
+Gräfenhainichen # Grafenhainichen
+Gräfenthal # Grafenthal
+Grafenwöhr # Grafenwohr
+Grafing bei München # Grafing bei Munchen
+Greußen # Greussen
+Grevesmühlen # Grevesmuhlen
+Gröditz # Groditz
+Gröningen # Groningen
+Großalmerode # Grossalmerode
+Groß-Bieberau # Gross-Bieberau
+Großbottwar # Grossbottwar
+Großbreitenbach # Grossbreitenbach
+Großenehrich # Grossenehrich
+Großenhain # Grossenhain
+Groß-Gerau # Gross-Gerau
+Großräschen # Grossraschen
+Großröhrsdorf # Grossrohrsdorf
+Großschirma # Grossschirma
+Groß-Umstadt # Gross-Umstadt
+Grünberg # Grunberg
+Grünhain-Beierfeld # Grunhain-Beierfeld
+Grünsfeld # Grunsfeld
+Grünstadt # Grunstadt
+Güglingen # Guglingen
+Günzburg # Gunzburg
+Güsten # Gusten
+Güstrow # Gustrow
+Gütersloh # Gutersloh
+Gützkow # Gutzkow
+Hann. Münden # Hann. Munden
+Haselünne # Haselunne
+Haßfurt # Hassfurt
+Höchstadt an der Aisch # Hochstadt an der Aisch
+Höchstädt an der Donau # Hochstadt an der Donau
+Hohenmölsen # Hohenmolsen
+Höhr-Grenzhausen # Hohr-Grenzhausen
+Hörstel # Horstel
+Höxter # Hoxter
+Hückelhoven # Huckelhoven
+Hückeswagen # Huckeswagen
+Hüfingen # Hufingen
+Hünfeld # Hunfeld
+Hürth # Hurth
+Ibbenbüren # Ibbenburen
+Immenstadt im Allgäu # Immenstadt im Allgau
+Isny im Allgäu # Isny im Allgau
+Jöhstadt # Johstadt
+Jülich # Julich
+Jüterbog # Juterbog
+Kempten im Allgäu # Kempten im Allgau
+Kindelbrück # Kindelbruck
+Klötze # Klotze
+Klütz # Klutz
+Kölleda # Kolleda
+Königsberg in Bayern # Konigsberg in Bayern
+Königsbrück # Konigsbruck
+Königsbrunn # Konigsbrunn
+Königsee-Rottenbach # Konigsee-Rottenbach
+Königslutter # Konigslutter
+Königstein im Taunus # Konigstein im Taunus
+Königstein # Konigstein
+Königswinter # Konigswinter
+Königs Wusterhausen # Konigs Wusterhausen
+Könnern # Konnern
+Korntal-Münchingen # Korntal-Munchingen
+Köthen # Kothen
+Kröpelin # Kropelin
+Kühlungsborn # Kuhlungsborn
+Külsheim # Kulsheim
+Künzelsau # Kunzelsau
+Lauda-Königshofen # Lauda-Konigshofen
+Leutkirch im Allgäu # Leutkirch im Allgau
+Lindenberg im Allgäu # Lindenberg im Allgau
+Löbau # Lobau
+Löffingen # Loffingen
+Löhne # Lohne
+Löningen # Loningen
+Lörrach # Lorrach
+Lößnitz # Lossnitz
+Löwenstein # Lowenstein
+Lübbecke # Lubbecke
+Lübben # Lubben
+Lübbenau # Lubbenau
+Lübeck # Lubeck
+Lübtheen # Lubtheen
+Lübz # Lubz
+Lüchow # Luchow
+Lüdenscheid # Ludenscheid
+Lüdinghausen # Ludinghausen
+Lügde # Lugde
+Lüneburg # Luneburg
+Lünen # Lunen
+Lütjenburg # Lutjenburg
+Lützen # Lutzen
+Marienmünster # Marienmunster
+Markgröningen # Markgroningen
+Märkisch Buchholz # Markisch Buchholz
+Markranstädt # Markranstadt
+Maxhütte-Haidhof # Maxhutte-Haidhof
+Meißen # Meissen
+Meßkirch # Messkirch
+Meßstetten # Messstetten
+Möckern # Mockern
+Möckmühl # Mockmuhl
+Mölln # Molln
+Mönchengladbach # Monchengladbach
+Monheim am Rhein # Monheim am Rhein
+Mörfelden-Walldorf # Morfelden-Walldorf
+Mössingen # Mossingen
+Mücheln # Mucheln
+Mügeln # Mugeln
+Mühlacker # Muhlacker
+Mühlberg # Muhlberg
+Mühldorf # Muhldorf
+Mühlhausen # Muhlhausen
+Mühlheim am Main # Muhlheim am Main
+Mühlheim an der Donau # Muhlheim an der Donau
+Mülheim an der Ruhr # Mulheim an der Ruhr
+Mülheim-Kärlich # Mulheim-Karlich
+Müllheim # Mullheim
+Müllrose # Mullrose
+Münchberg # Munchberg
+Müncheberg # Muncheberg
+Münchenbernsdorf # Munchenbernsdorf
+Münnerstadt # Munnerstadt
+Münsingen # Munsingen
+Munster # Munster
+Münster # Munster
+Münstermaifeld # Munstermaifeld
+Münzenberg # Munzenberg
+Nastätten # Nastatten
+Neckargemünd # Neckargemund
+Neuenbürg # Neuenburg
+Neumünster # Neumunster
+Neuötting # Neuotting
+Neusäß # Neusass
+Neustadt am Rübenberge # Neustadt am Rubenberge
+Neustadt an der Weinstraße # Neustadt an der Weinstrasse
+Niebüll # Niebull
+Nördlingen # Nordlingen
+Nürtingen # Nurtingen
+Oberweißbach/Thür. Wald # Oberweissbach/Thur. Wald
+Öhringen # Ohringen
+Oranienbaum-Wörlitz # Oranienbaum-Worlitz
+Orlamünde # Orlamunde
+Osnabrück # Osnabruck
+Ostheim vor der Rhön # Ostheim vor der Rhon
+Östringen # Ostringen
+Pausa-Mühltroff # Pausa-Muhltroff
+Plön # Plon
+Pößneck # Possneck
+Preußisch Oldendorf # Preussisch Oldendorf
+Prüm # Prum
+Püttlingen # Puttlingen
+Quakenbrück # Quakenbruck
+Raguhn-Jeßnitz # Raguhn-Jessnitz
+Rheda-Wiedenbrück # Rheda-Wiedenbruck
+Rheinböllen # Rheinbollen
+Röbel/Müritz # Robel/Muritz
+Rödental # Rodental
+Rödermark # Rodermark
+Römhild # Romhild
+Rosbach vor der Höhe # Rosbach vor der Hohe
+Rösrath # Rosrath
+Roßleben # Rossleben
+Roßwein # Rosswein
+Rotenburg an der Wümme # Rotenburg an der Wumme
+Rötha # Rotha
+Röthenbach an der Pegnitz # Rothenbach an der Pegnitz
+Röttingen # Rottingen
+Rötz # Rotz
+Rüdesheim # Rudesheim
+Rüsselsheim # Russelsheim
+Rutesheim # Rutesheim
+Rüthen # Ruthen
+Saarbrücken # Saarbrucken
+Scheßlitz # Schesslitz
+Schillingsfürst # Schillingsfurst
+Schkölen # Schkolen
+Schloß Holte-Stukenbrock # Schloss Holte-Stukenbrock
+Schlüchtern # Schluchtern
+Schlüsselfeld # Schlusselfeld
+Schmölln # Schmolln
+Schömberg # Schomberg
+Schönau # Schonau
+Schönau im Schwarzwald # Schonau im Schwarzwald
+Schönberg # Schonberg
+Schönebeck # Schonebeck
+Schöneck/Vogtl. # Schoneck/Vogtl.
+Schönewalde # Schonewalde
+Schongau # Schongau
+Schöningen # Schoningen
+Schönsee # Schonsee
+Schönwald # Schonwald
+Schopfheim # Schopfheim
+Schöppenstedt # Schoppenstedt
+Schüttorf # Schuttorf
+Schwäbisch Gmünd # Schwabisch Gmund
+Schwäbisch Hall # Schwabisch Hall
+Schwabmünchen # Schwabmunchen
+Seßlach # Sesslach
+Sömmerda # Sommerda
+Sprockhövel # Sprockhovel
+Staßfurt # Stassfurt
+Steinau an der Straße # Steinau an der Strasse
+Stößen # Stossen
+Stühlingen # Stuhlingen
+Südliches Anhalt # Sudliches Anhalt
+Süßen # Sussen
+Tangerhütte # Tangerhutte
+Tangermünde # Tangermunde
+Töging am Inn # Toging am Inn
+Tönisvorst # Tonisvorst
+Tönning # Tonning
+Tübingen # Tubingen
+Übach-Palenberg # Ubach-Palenberg
+Überlingen # Uberlingen
+Uebigau-Wahrenbrück # Uebigau-Wahrenbruck
+Ueckermünde # Ueckermunde
+Unterschleißheim # Unterschleissheim
+Visselhövede # Visselhovede
+Vohenstrauß # Vohenstrauss
+Vöhrenbach # Vohrenbach
+Vöhringen # Vohringen
+Völklingen # Volklingen
+Wachenheim an der Weinstraße # Wachenheim an der Weinstrasse
+Wächtersbach # Wachtersbach
+Waghäusel # Waghausel
+Waldbröl # Waldbrol
+Waldmünchen # Waldmunchen
+Walldürn # Walldurn
+Wangen im Allgäu # Wangen im Allgau
+Wanzleben-Börde # Wanzleben-Borde
+Wassertrüdingen # Wassertrudingen
+Weißenberg # Weissenberg
+Weißenburg in Bayern # Weissenburg in Bayern
+Weißenfels # Weissenfels
+Weißenhorn # Weissenhorn
+Weißensee # Weissensee
+Weißenstadt # Weissenstadt
+Weißenthurm # Weissenthurm
+Weißwasser # Weisswasser
+Wetter # Wetter
+Wettin-Löbejün # Wettin-Lobejun
+Wilkau-Haßlau # Wilkau-Hasslau
+Wipperfürth # Wipperfurth
+Wolfenbüttel # Wolfenbuttel
+Wörrstadt # Worrstadt
+Wörth am Rhein # Worth am Rhein
+Wörth an der Donau # Worth an der Donau
+Wörth am Main # Worth am Main
+Wülfrath # Wulfrath
+Würselen # Wurselen
+Würzburg # Wurzburg
+Wyk auf Föhr # Wyk auf Fohr
+Ziegenrück # Ziegenruck
+Zörbig # Zorbig
+Zülpich # Zulpich
+Zweibrücken # Zweibrucken
+Zwönitz # Zwonitz
+Goettingen # Gottingen
+Köln # Cologne
+Tuebingen # Tubingen
+Institut für nachhaltige Landbewirtschaftung # Halle
+Oberpfaffenhofen # Starnberg
+Kaiserslatern # Kaiserslautern
+Manching # Ingolstadt
+Fuerth # Furth

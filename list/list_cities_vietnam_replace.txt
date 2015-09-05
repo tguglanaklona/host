@@ -1,0 +1,118 @@
+Hanoi # Ha Noi
+Sai Gon # Ho Chi Minh
+Cao Lãnh # Cao Lanh
+Danang # Da Nang
+Sonla # Son La
+Haiphong # Hai Phong
+Bà Rịa # Ba Rja
+Bạc Liêu # Bac Lieu
+Bắc Giang # Bac Giang
+Bắc Ninh # Bac Ninh
+Bảo Lộc # Bao Loc
+Biên Hòa # Bien Hoa
+Bến Tre # Ben Tre
+Buôn Ma Thuột # Buon Ma Thuot
+Cà Mau # Ca Mau
+Cẩm Phả # Cam Pha
+Cao Lãnh # Cao Lanh
+Đà Lạt # Da Lat
+Điện Biên Phủ # Dien Bien Phu
+Đông Hà # Dong Ha
+Đồng Hới # Dong Hoi
+Hà Tĩnh # Ha Tinh
+Hạ Long # Ha Long
+Hải Dương # Hai Duong
+Hòa Bình # Hoa Binh
+Hội An # Hoi An
+Huế # Hue
+Hưng Yên # Hung Yen
+Kon Tum # Kon Tum
+Lạng Sơn # Lang Son
+Lào Cai # Lao Cai
+Long Xuyên # Long Xuyen
+Móng Cái # Mong Cai
+Mỹ Tho # My Tho
+Nam Định # Nam Dinh
+Ninh Bình # Nunh Binh
+Nha Trang # Nha Trang
+Cam Ranh # Cam Ranh
+Phan Rang–Tháp Chàm # Phan Rang-Thap Cham
+Phan Thiết # Phan Thiet
+Phủ Lý # Phu Ly
+Pleiku # Pleiku
+Quảng Ngãi # Quang Ngai
+Quy Nhơn # Quy Nhon
+Rạch Giá # Rach Gia
+Sóc Trăng # Soc Trang
+Sơn La # Son La
+Tam Kỳ # Tam Ky
+Tân An # Tan An
+Thái Bình # Thai Binh
+Thái Nguyên # Thai Nguyen
+Thanh Hóa # Thanh Hoa
+Trà Vinh # Tra Vinh
+Tuy Hòa # Tuy Hoa
+Tuyên Quang # Tuyen Quang
+Uông Bí # Uong Bi
+Việt Trì # Viet Tri
+Vinh # Vinh Yen
+Vĩnh Yên # Vinh Long
+Vĩnh Long # Vinh
+Vũng Tàu # Vung Tau
+Yên Bái # Yen Bai
+BaRja # Ba Rja
+BacLieu # Bac Lieu
+BacGiang # Bac Giang
+BacNinh # Bac Ninh
+BaoLoc # Bao Loc
+BienHoa # Bien Hoa
+BenTre # Ben Tre
+BuonMaThuot # Buon Ma Thuot
+CaMau # Ca Mau
+CamPha # Cam Pha
+CaoLanh # Cao Lanh
+CanTho # Can Tho
+DaNang # Da Nang
+DaLat # Da Lat
+DienBienPhu # Dien Bien Phu
+DongHa # Dong Ha
+DongHoi # Dong Hoi
+HaTinh # Ha Tinh
+HaLong # Ha Long
+HaiDuong # Hai Duong
+HoaBinh # Hoa Binh
+HoiAn # Hoi An
+HungYen # Hung Yen
+HaiPhong # Hai Phong
+KonTum # Kon Tum
+LangSon # Lang Son
+LaoCai # Lao Cai
+LongXuyen # Long Xuyen
+MongCai # Mong Cai
+MyTho # My Tho
+NamDinh # Nam Dinh
+NunhBinh # Nunh Binh
+NhaTrang # Nha Trang
+CamRanh # Cam Ranh
+Phan Rang Thap Cham # Phan Rang-Thap Cham
+PhanThiet # Phan Thiet
+PhuLy # Phu Ly
+QuangNgai # Quang Ngai
+QuyNhon # Quy Nhon
+RachGia # Rach Gia
+SocTrang # Soc Trang
+SonLa # Son La
+TamKy # Tam Ky
+TanAn # Tan An
+ThaiBinh # Thai Binh
+ThaiNguyen # Thai Nguyen
+ThanhHoa # Thanh Hoa
+TraVinh # Tra Vinh
+TuyHoa # Tuy Hoa
+TuyenQuang # Tuyen Quang
+UongBi # Uong Bi
+VietTri # Viet Tri
+VinhYen # Vinh Yen
+VinhLong # Vinh Long
+VungTau # Vung Tau
+YenBai # Yen Bai

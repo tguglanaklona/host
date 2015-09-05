@@ -1,0 +1,5 @@
+Neuchâtel # Neuchatel
+Zürich # Zurich
+Genève # Geneva
+St Gallen # St. Gallen
+Gd-Lancy-Geneva # Geneva

@@ -1,0 +1,20 @@
+UNIVERSITY OF QUEENSLAND # Brisbane
+The Australian National University # Canberra
+Clayton # Melbourne
+Hawthorn # Melbourne
+Monash University # Melbourne
+Flinders University # Adelaide
+Gold Coast-Tweed # Gold Coast
+Gold Coast # Gold Coast
+Newcastle-Maitland # Newcastle
+Canberra-Queanbeyan # Queanbeyan
+The University of Newcastle # Newcastle
+Moruya # Moruya
+Crawley # Crawley
+Armidale # Armidale
+Pinjarra # Pinjarra
+Bundoora # Melbourne
+Edinburgh # Salisbury
+Randwick # Sydney
+Bentley # Perth
+Marsfield # Sydney

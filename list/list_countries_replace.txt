@@ -1,0 +1,77 @@
+Russian Federation # Russia
+Congo Democratic Republic # Congo
+Ireland Republic # Ireland
+Republic of Korea # South Korea
+Kosova # Kosovo
+Republic of Kosovo # Kosovo
+Republic of Kosova # Kosovo
+United States of America # USA
+United States # USA
+P. R. of China # China
+FL 33487 # USA
+03049, Ukrainå # Ukraine
+U.S # USA
+Scotland # United Kingdom
+U. S. A. # USA
+GA 31907 # USA
+Jazan University # Saudi Arabia
+YARMOUK UNIVERSITY # JORDAN
+ROM^ANIA # Romania
+MAROC # Morocco
+SLOVAK REPUBLIC # Slovakia
+SHIRAZ UNIVERSITY # Iran
+I.R.IRAN # Iran
+ALG'ERIE # Algeria
+AFYON-TURKEY # Turkey
+D"UZCE-TURKEY # Turkey
+MORROCO # Morocco
+(SPAIN) # Spain
+COMENIUS UNIVERSITY # Slovakia
+VIET NAM # VIETNAM
+608-737, Korea # South Korea
+S. Korea # South Korea
+302-729, Korea # South Korea
+660-701, Korea # South Korea
+305-764, Korea # South Korea
+133-791, Korea # South Korea
+200-702, Korea # South Korea
+130-743, Korea # South Korea
+487-711, Korea # South Korea
+426-791, Korea # South Korea
+AlgÃ©rie # Algeria
+139-743, Korea # South Korea
+402-751, Korea # South Korea
+680-749, Korea # South Korea
+Tunisie # Tunisia
+306-791, Korea # South Korea
+139-701, Korea # South Korea
+604-714, Korea # South Korea
+P.R.China # China
+690-756, Korea # South Korea
+305-340, Korea # South Korea
+Saoudi Arabia # Saudi Arabia
+KSA # Saudi Arabia
+Korea # SPECIAL CASE
+Oklahoma # USA
+Turkiye # Turkey
+Brasil # Brazil
+PRC # China
+ROC # Taiwan
+UAE # United Arab Emirates
+WA,USA # USA
+California # USA
+South Carolina # USA
+Texas # USA
+Connecticut # USA
+North Carolina # USA
+Illinois # USA
+Pennsylvania # USA
+Maryland # USA
+Washington # USA
+Florida # USA
+New York # USA
+Amirkabir University of Technology # Iran
+UK # United Kingdom
+New South Wales # Australia
+Hunan,P.R.China # China
+Cameroun # Cameroon

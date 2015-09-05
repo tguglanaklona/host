@@ -1,0 +1,26 @@
+D"UZCE # DUZCE
+Sakarya University # Adapazari
+İzmir # Izmir
+Balgat # Ankara
+Gumushane # Gumushane
+Niğde # Nigde
+İstanbul # Istanbul
+Esenler-Istanbul # Istanbul
+Balıkesir # Balikesir
+Gümüşhane # Gumushane
+Ağrı # Agri
+Elazığ # Elazig
+Elazğ # Elazig
+Muş # Mus
+44280-Malatya # Malatya
+Ağri # Agri
+Tekirdağ # Tekirdag
+Erzuram # Erzurum
+Kahramanmaraş # Kahramanmaras
+Diyarbakır # Diyarbakir
+65080-Van # Van
+Adıyaman # Adiyaman
+İzmit-Kocaeli # Izmit
+Kocaeli # Izmit
+Kütahya # Kutahya
+Düzce # Duzce

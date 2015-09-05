@@ -1,0 +1,60 @@
+London # London
+Wilton # Wilton
+Brighton # Brighton
+Reading # Reading
+Guildford # Guildford
+Shrivenham # Shrivenham
+University of Surrey # Guildford
+Loughborough University # Loughborough
+Stoke on Trent # Stoke-on-Trent
+Appleby in Westmorland # Appleby-in-Westmorland
+Ashby de la Zouch # Ashby-de-la-Zouch
+Ashton under Lyne # Ashton-under-Lyne
+Barrow in Furness # Barrow-in-Furness
+Barton upon Humber # Barton-upon-Humber
+Berwick upon Tweed # Berwick-upon-Tweed
+Bexhill on Sea # Bexhill-on-Sea
+Bradford on Avon # Bradford-on-Avon
+Broughton in Furness # Broughton-in-Furness
+Bude Stratton # Bude-Stratton
+Burgh le Marsh# Burgh-le-Marsh
+Burnham on Crouch # Burnham-on-Crouch
+Burnham on Sea and Highbridge # Burnham-on-Sea and Highbridge
+Chapel en le Frith # Chapel-en-le-Frith
+Chester le Street # Chester-le-Street
+Grange over Sands # Grange-over-Sands
+Henley in Arden # Henley-in-Arden
+Henley on Thames # Henley-on-Thames
+Kingston upon Thames # Kingston-upon-Thames
+Kirkby in Ashfield # Kirkby-in-Ashfield
+Kirton in Lindsey # Kirton-in-Lindsey
+Leighton Linslade # Leighton-Linslade
+Leigh on Sea # Leigh-on-Sea
+Moreton in Marsh # Moreton-in-Marsh
+Newark on Trent # Newark-on-Trent
+Newbiggin by the Sea # Newbiggin-by-the-Sea
+Newcastle under Lyme # Newcastle-under-Lyme
+Newton le Willows # Newton-le-Willows
+Norton on Derwent # Norton-on-Derwent
+Poynton with Worth # Poynton-with-Worth
+Queenborough in Sheppey # Queenborough-in-Sheppey
+Ross on Wye # Ross-on-Wye
+St Just in Penwith # St Just-in-Penwith
+Shipston on Stour # Shipston-on-Stour
+Shoreham by Sea # Shoreham-by-Sea
+Skelton in Cleveland # Skelton-in-Cleveland
+Southend on Sea # Southend-on-Sea
+Staines upon Thames # Staines-upon-Thames
+Stockton on Tees # Stockton-on-Tees
+Stourport on Severn # Stourport-on-Severn
+Stow on the Wold # Stow-on-the-Wold
+Stratford upon Avon # Stratford-upon-Avon
+Thornaby on Tees # Thornaby-on-Tees
+Upton upon Severn # Upton-upon-Severn
+Walton on Thames # Walton-on-Thames
+Wath upon Dearne # Wath-upon-Dearne
+Wells next the Sea # Wells-next-the-Sea
+Weston super Mare # Weston-super-Mare
+Wotton under Edge # Wotton-under-Edge
+Colchester # Colchester
+Staines # Staines-upon-Thames

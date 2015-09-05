@@ -1,0 +1,137 @@
+Afghanistan|Afghanistan
+Albania|Albania
+Algeria|Algeria
+Andorra|Andorra
+Argentina|Argentina
+Armenia|Armenia
+Australia|Australia
+Austria|Austria
+Azerbaijan|Azerbaijan
+Bahamas|Bahamas
+Bangladesh|Bangladesh
+Barbados|Barbados
+Belarus|Belarus
+Belgium|Belgium
+Benin|Benin
+Bhutan|Bhutan
+Bolivia|Bolivia
+Bosniaandherzegovina|Bosnia and Herzegovina
+Botswana|Botswana
+Brazil|Brazil
+Bulgaria|Bulgaria
+Cameroon|Cameroon
+Canada|Canada
+Chile|Chile
+China|China
+Colombia|Colombia
+Croatia|Croatia
+Cuba|Cuba
+Cyprus|Cyprus
+Czechrepublic|Czech Republic
+Denmark|Denmark
+Egypt|Egypt
+Estonia|Estonia
+Finland|Finland
+France|France
+Georgia|Georgia
+Germany|Germany
+Ghana|Ghana
+Greece|Greece
+Guatemala|Guatemala
+Guinea|Guinea
+Guineabissau|Guinea Bissau
+Hongkong|Hong Kong
+Hungary|Hungary
+Iceland|Iceland
+India|India
+Indonesia|Indonesia
+Iran|Iran
+Iraq|Iraq
+Ireland|Ireland
+Israel|Israel
+Italy|Italy
+Jamaica|Jamaica
+Japan|Japan
+Jordan|Jordan
+Kazakhstan|Kazakhstan
+Kenya|Kenya
+Kosovo|Kosovo
+Kyrgyzstan|Kyrgyzstan
+Latvia|Latvia
+Lebanon|Lebanon
+Lesotho|Lesotho
+Liberia|Liberia
+Libya|Libya
+Liechtenstein|Liechtenstein
+Lithuania|Lithuania
+Luxembourg|Luxembourg
+Macedonia|Macedonia
+Malaysia|Malaysia
+Mauritania|Mauritania
+Mexico|Mexico
+Moldova|Moldova
+Monaco|Monaco
+Mongolia|Mongolia
+Montenegro|Montenegro
+Morocco|Morocco
+Mozambique|Mozambique
+Myanmar|Myanmar
+Namibia|Namibia
+Nepal|Nepal
+Netherlands|Netherlands
+Newcaledonia|New Caledonia
+Newzealand|New Zealand
+Nicaragua|Nicaragua
+Niger|Niger
+Nigeria|Nigeria
+Northkorea|North Korea
+Norway|Norway
+Oman|Oman
+Pakistan|Pakistan
+Palestine|Palestine
+Panama|Panama
+Peru|Peru
+Philippines|Philippines
+Poland|Poland
+Portugal|Portugal
+Puertorico|Puerto Rico
+Qatar|Qatar
+Romania|Romania
+Russia|Russia
+Rwanda|Rwanda
+Samoa|Samoa
+Saudiarabia|Saudi Arabia
+Senegal|Senegal
+Serbia|Serbia
+Singapore|Singapore
+Slovakia|Slovakia
+Slovenia|Slovenia
+Southafrica|South Africa
+Southkorea|South Korea
+Spain|Spain
+Srilanka|Sri Lanka
+Sudan|Sudan
+Swaziland|Swaziland
+Sweden|Sweden
+Switzerland|Switzerland
+Syria|Syria
+Taiwan|Taiwan
+Tajikistan|Tajikistan
+Tanzania|Tanzania
+Thailand|Thailand
+Togo|Togo
+Trinidadandtobago|Trinidad and Tobago
+Tunisia|Tunisia
+Turkey|Turkey
+Turkmenistan|Turkmenistan
+Ukraine|Ukraine
+Unitedarabemirates|United Arab Emirates
+Unitedkingdom|United Kingdom
+Uruguay|Uruguay
+Usa|USA
+Uzbekistan|Uzbekistan
+Venezuela|Venezuela
+Vietnam|Vietnam
+Yemen|Yemen
+Zambia|Zambia
+Zimbabwe|Zimbabwe

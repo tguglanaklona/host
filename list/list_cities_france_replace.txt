@@ -1,0 +1,249 @@
+Université des Antilles et de La Guyane # Fort-de-France
+École Polytechnique # Paris
+Orléans # Orleans
+Bures-sur-Yvette # Bures-sur-Yvette
+Avold # Saint-Avold
+Nozay # Nozay
+Institut TELECOM, SudParis # Evry
+Aubière # Aubiere
+Le Kremlin-Bicêtre # Le Kremlin-Bicetre
+Le Mée-sur-Seine # Le Mee-sur-Seine
+Liévin # Lievin
+Mâcon # Macon
+Marcq-en-Barœul # Marcq-en-Baroeul
+Mérignac # Merignac
+Mons-en-Barœul # Mons-en-Baroeul
+Montbéliard # Montbeliard
+Montélimar # Montelimar
+Montigny-lès-Metz # Montigny-les-Metz
+Montluçon # Montlucon
+Nîmes # Nimes
+Orléans # Orleans
+Ozoir-la-Ferrière # Ozoir-la-Ferriere
+Périgueux # Perigueux
+Rezé # Reze
+Romans-sur-Isère # Romans-sur-Isere
+Saint-André # Saint-Andre
+Saint-Benoît # Saint-Benoit
+Saint-Dié-des-Vosges # Saint-Die-des-Vosges
+Saint-Étienne # Saint-Etienne
+Saint-Étienne-du-Rouvray # Saint-Etienne-du-Rouvray
+Saint-Mandé # Saint-Mande
+Saint-Martin-d'Hères # Saint-Martin-d'Heres
+Saint-Maur-des-Fossés # Saint-Maur-des-Fosses
+Saint-Médard-en-Jalles # Saint-Medard-en-Jalles
+Saint-Ouen-l'Aumône # Saint-Ouen-l'Aumone
+Saint-Raphaël # Saint-Raphael
+Saint-Sébastien-sur-Loire # Saint-Sebastien-sur-Loire
+Sainte-Foy-lès-Lyon # Sainte-Foy-les-Lyon
+Sainte-Geneviève-des-Bois # Sainte-Genevieve-des-Bois
+Schœlcher # Schoelcher
+Sète # Sete
+Sèvres # Sevres
+Sotteville-lès-Rouen # Sotteville-les-Rouen
+Vandœuvre-lès-Nancy # Vandoeuvre-les-Nancy
+Vélizy-Villacoublay # Velizy-Villacoublay
+Vénissieux # Venissieux
+Villeneuve-d'Ascq # Villeneuve d'Ascq
+Viry-Châtillon # Viry-Chatillon
+Compiègne # Compiegne
+Villers-lès-Nancy # Villers-les-Nancy
+Évry # Evry
+Saint-Martin d’Hères # Saint-Martin-d'Heres
+Saint Martin d’Heres # Saint-Martin-d'Heres
+Universite Europeenne de Bretagne # Rennes
+Sophia Antipolis # Nice
+Saint Martin d'Hères # Saint-Martin-d'Heres
+St Martin d'Heres # Saint-Martin-d'Heres
+Sophia-Antipolis # Sophia Antipolis
+Cesson Sévigné # Cesson Sevigne
+Bruay-la-Buissière # Bruay-la-Buissiere
+Gif sur Yvette # Gif-sur-Yvette
+Moret sur Loing # Moret-sur-Loing
+Aix en Provence # Aix-en-Provence
+Aix les Bains # Aix-les-Bains
+Asnieres sur Seine # Asnieres-sur-Seine
+Athis Mons # Athis-Mons
+Aulnay sous Bois # Aulnay-sous-Bois
+Baie Mahault # Baie-Mahault
+Bois Colombes # Bois-Colombes
+Bois Guillaume Bihorel # Bois-Guillaume-Bihorel
+Boulogne Billancourt # Boulogne-Billancourt
+Boulogne sur Mer # Boulogne-sur-Mer
+Bourg en Bresse # Bourg-en-Bresse
+Bourgoin Jallieu # Bourgoin-Jallieu
+Bretigny sur Orge # Bretigny-sur-Orge
+Brive la Gaillarde # Brive-la-Gaillarde
+Bruay la Buissiere # Bruay-la-Buissiere
+Bures sur Yvette # Bures-sur-Yvette
+Bussy Saint Georges # Bussy-Saint-Georges
+Cagnes sur Mer # Cagnes-sur-Mer
+Caluire et Cuire # Caluire-et-Cuire
+Chalon sur Saone # Chalon-sur-Saone
+Chalons en Champagne # Chalons-en-Champagne
+Champigny sur Marne # Champigny-sur-Marne
+Champs sur Marne # Champs-sur-Marne
+Charenton le Pont # Charenton-le-Pont
+Charleville Mezieres # Charleville-Mezieres
+Chatenay Malabry # Chatenay-Malabry
+Cherbourg Octeville # Cherbourg-Octeville
+Choisy le Roi # Choisy-le-Roi
+Clermont Ferrand # Clermont-Ferrand
+Clichy sous Bois # Clichy-sous-Bois
+Combs la Ville # Combs-la-Ville
+Conflans Sainte Honorine # Conflans-Sainte-Honorine
+Corbeil Essonnes # Corbeil-Essonnes
+Cormeilles en Parisis # Cormeilles-en-Parisis
+Coudekerque Branche # Coudekerque-Branche
+Dammarie les Lys # Dammarie-les-Lys
+Decines Charpieu # Decines-Charpieu
+Deuil la Barre # Deuil-la-Barre
+Epinay sur Seine # Epinay-sur-Seine
+Fleury les Aubrais # Fleury-les-Aubrais
+Fontenay aux Roses # Fontenay-aux-Roses
+Fontenay sous Bois # Fontenay-sous-Bois
+Fort de France # Fort-de-France
+Garges les Gonesse # Garges-les-Gonesse
+Gif sur Yvette # Gif-sur-Yvette
+Grande Synthe # Grande-Synthe
+Henin Beaumont # Henin-Beaumont
+Herouville Saint Clair # Herouville-Saint-Clair
+Illkirch Graffenstaden # Illkirch-Graffenstaden
+Issy les Moulineaux # Issy-les-Moulineaux
+Ivry sur Seine # Ivry-sur-Seine
+Joue les Tours # Joue-les-Tours
+L'Hay les Roses # L'Hay-les-Roses
+La Celle Saint Cloud # La Celle-Saint-Cloud
+La Ciotat # La Ciotat
+La Courneuve # La Courneuve
+La Garde # La Garde
+La Garenne Colombes # La Garenne-Colombes
+La Madeleine # La Madeleine
+La Possession # La Possession
+La Roche sur Yon # La Roche-sur-Yon
+La Rochelle # La Rochelle
+La Seyne sur Mer # La Seyne-sur-Mer
+La Teste de Buch # La Teste-de-Buch
+La Valette du Var # La Valette-du-Var
+Lagny sur Marne # Lagny-sur-Marne
+Le Blanc Mesnil # Le Blanc-Mesnil
+Le Bouscat # Le Bouscat
+Le Cannet # Le Cannet
+Le Chesnay # Le Chesnay
+Le Creusot # Le Creusot
+Le Gosier # Le Gosier
+Le Grand Quevilly # Le Grand-Quevilly
+Le Havre # Le Havre
+Le Kremlin Bicetre # Le Kremlin-Bicetre
+Le Lamentin # Le Lamentin
+Le Mans # Le Mans
+Le Mee sur Seine # Le Mee-sur-Seine
+Le Moule # Le Moule
+Le Perreux sur Marne # Le Perreux-sur-Marne
+Le Petit Quevilly # Le Petit-Quevilly
+Le Plessis Robinson # Le Plessis-Robinson
+Le Port # Le Port
+Le Robert # Le Robert
+Le Tampon # Le Tampon
+Les Abymes # Les Abymes
+Les Lilas # Les Lilas
+Les Mureaux # Les Mureaux
+Les Pavillons sous Bois # Les Pavillons-sous-Bois
+Les Ulis # Les Ulis
+Levallois Perret # Levallois-Perret
+Livry Gargan # Livry-Gargan
+Maisons Alfort # Maisons-Alfort
+Maisons Laffitte # Maisons-Laffitte
+Mandelieu la Napoule # Mandelieu-la-Napoule
+Mantes la Jolie # Mantes-la-Jolie
+Marcq en Baroeul # Marcq-en-Baroeul
+Mons en Baroeul # Mons-en-Baroeul
+Mont de Marsan # Mont-de-Marsan
+Montigny le Bretonneux # Montigny-le-Bretonneux
+Montigny les Metz # Montigny-les-Metz
+Morsang sur Orge # Morsang-sur-Orge
+Neuilly Plaisance # Neuilly-Plaisance
+Neuilly sur Marne # Neuilly-sur-Marne
+Neuilly sur Seine # Neuilly-sur-Seine
+Nogent sur Marne # Nogent-sur-Marne
+Noisy le Grand # Noisy-le-Grand
+Noisy le Sec # Noisy-le-Sec
+Ozoir la Ferriere # Ozoir-la-Ferriere
+Petit Bourg # Petit-Bourg
+Pierrefitte sur Seine # Pierrefitte-sur-Seine
+Pontault Combault # Pontault-Combault
+Rillieux la Pape # Rillieux-la-Pape
+Ris Orangis # Ris-Orangis
+Roissy en Brie # Roissy-en-Brie
+Romans sur Isere # Romans-sur-Isere
+Rosny sous Bois # Rosny-sous-Bois
+Rueil Malmaison # Rueil-Malmaison
+Saint Andre # Saint-Andre
+Saint Avold # Saint-Avold
+Saint Benoit # Saint-Benoit
+Saint Brieuc # Saint-Brieuc
+Saint Chamond # Saint-Chamond
+Saint Cloud # Saint-Cloud
+Saint Denis # Saint-Denis
+Saint Die des Vosges # Saint-Die-des-Vosges
+Saint Dizier # Saint-Dizier
+Saint Etienne # Saint-Etienne
+Saint Etienne du Rouvray # Saint-Etienne-du-Rouvray
+Saint Genis Laval # Saint-Genis-Laval
+Saint Germain en Laye # Saint-Germain-en-Laye
+Saint Gratien # Saint-Gratien
+Saint Herblain # Saint-Herblain
+Saint Joseph # Saint-Joseph
+Saint Laurent du Maroni # Saint-Laurent-du-Maroni
+Saint Laurent du Var # Saint-Laurent-du-Var
+Saint Leu # Saint-Leu
+Saint Louis # Saint-Louis
+Saint Malo # Saint-Malo
+Saint Mande # Saint-Mande
+Saint Martin d'Heres # Saint-Martin-d'Heres
+Saint Maur des Fosses # Saint-Maur-des-Fosses
+Saint Medard en Jalles # Saint-Medard-en-Jalles
+Saint Michel sur Orge # Saint-Michel-sur-Orge
+Saint Nazaire # Saint-Nazaire
+Saint Ouen # Saint-Ouen
+Saint Ouen l'Aumone # Saint-Ouen-l'Aumone
+Saint Paul # Saint-Paul
+Saint Pierre # Saint-Pierre
+Saint Priest # Saint-Priest
+Saint Quentin # Saint-Quentin
+Saint Raphael # Saint-Raphael
+Saint Sebastien sur Loire # Saint-Sebastien-sur-Loire
+Sainte Anne # Sainte-Anne
+Sainte Foy les Lyon # Sainte-Foy-les-Lyon
+Sainte Genevieve des Bois # Sainte-Genevieve-des-Bois
+Sainte Marie # Sainte-Marie
+Sainte Rose # Sainte-Rose
+Sainte Suzanne # Sainte-Suzanne
+Salon de Provence # Salon-de-Provence
+Savigny le Temple # Savigny-le-Temple
+Savigny sur Orge # Savigny-sur-Orge
+Six Fours les Plages # Six-Fours-les-Plages
+Sophia Antipolis # Sophia Antipolis
+Sotteville les Rouen # Sotteville-les-Rouen
+Sucy en Brie # Sucy-en-Brie
+Thonon les Bains # Thonon-les-Bains
+Tremblay en France # Tremblay-en-France
+Vandoeuvre les Nancy # Vandoeuvre-les-Nancy
+Villers les Nancy # Villers-les-Nancy
+Vaulx en Velin # Vaulx-en-Velin
+Velizy Villacoublay # Velizy-Villacoublay
+Vigneux sur Seine # Vigneux-sur-Seine
+Villefranche sur Saone # Villefranche-sur-Saone
+Villenave d'Ornon # Villenave-d'Ornon
+Villeneuve d'Ascq # Villeneuve d'Ascq
+Villeneuve la Garenne # Villeneuve-la-Garenne
+Villeneuve Saint Georges # Villeneuve-Saint-Georges
+Villeneuve sur Lot # Villeneuve-sur-Lot
+Villiers le Bel # Villiers-le-Bel
+Villiers sur Marne # Villiers-sur-Marne
+Viry Chatillon # Viry-Chatillon
+Vitry sur Seine # Vitry-sur-Seine
+Moret sur Loing # Moret-sur-Loing
+Montbonnot Saint Martin # Grenoble
+La Défense # Paris
+Illkirch # Illkirch-Graffenstaden

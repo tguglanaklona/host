@@ -1,0 +1,25 @@
+41013-SEVILLA # Sevilla
+Santiago de Compostela # Santiago de Compostela
+Universidad de La Laguna # San Cristobal de la Laguna
+Jaén # Jaen
+39005-Santander # Santander
+Almería # Almeria
+Málaga # Malaga
+Córdoba # Cordoba
+València # Valencia
+A Coruña # A Coruna
+(Barcelona) # Barcelona
+Igualada # Igualada
+Alcalá de Henares # Alcala de Henares
+Elche # Elche
+Miguel Hernández University # Elche
+Caceres # Caceres
+San Sebastian # San Sebastian
+Castelldefels # Castelldefels
+Alicante # Alacant
+San Sebastián # San Sebastian
+Cáceres # Caceres
+Bellaterra # Barcelona
+(Valladolid) # Valladolid
+Lejona # Leioa
+Leioa # Leioa

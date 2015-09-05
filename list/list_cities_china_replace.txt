@@ -1,0 +1,32 @@
+Xi’an # Xi'an
+Chong Qing # ChongQing
+Zhangjiang # Zhangjiagang
+Huaian # Huai'an
+Yanbian University # Yanji
+Shanxi agricultural University # Taigu
+Meizhou # Meizhou
+Yuncheng # Yuncheng
+Beijin # Beijing
+Taigu # Jinzhong
+Fuzhou 350108 # Fuzhou, Fujian
+Zhejiang, Taizhou # Taizhou, Zhejiang
+Sichuan University # Chengdu
+Hubei Engineering University # Handan
+Hubei Normal University # Wuhan
+Fujian Normal University # Fuzhou, Fujian
+Suzhou University # Suzhou, Jiangsu
+Hanzhou # Hangzhou
+Suzhou, 215006, Jiangsu # Suzhou, Jiangsu
+Soochow University, Suzhou # Suzhou, Jiangsu
+Yangling # Xianyang
+Fujian Academy of Agricultural Sciences, Fuzhou # Fuzhou, Fujian
+Fuzhou, 350003 # Fuzhou, Fujian
+Fuzhou, 350002 # Fuzhou, Fujian
+Lin’an # Hangzhou
+Qing Dao # Qingdao
+South China University of Technology # Guangzhou
+Zhongyuan Univ. of Technology # Zhengzhou
+Zhongyuan University of Technology # Zhengzhou
+University of Electronic Science and Technology of China # Chengdu
+Cheng du # Chengdu
+Key Laboratory of Image Understanding and Computer Vision, Liaoning Province # Shenyang

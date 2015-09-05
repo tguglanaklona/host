@@ -1,0 +1,22 @@
+Waterloo # Waterloo
+Longueuil # Longueuil
+Chicoutimi # Chicoutimi
+Montréal # Montreal
+Sudbury # Greater Sudbury
+Vancouver # Vancouver
+Devon # Devon
+Moncton # Moncton
+Fort McMurray # Fort McMurray
+Saint Catharines # St. Catharines
+St. Catharines # St. Catharines
+Chalk River # Chalk River
+Guelph # Guelph
+Burnaby # Burnaby
+Halifax # Halifax
+Rimouski # Rimouski
+Victoria, BC # Victoria, British Columbia
+Victoria, BC, # Victoria, British Columbia
+University of Victoria, Victoria # Victoria, British Columbia
+Trois-Rivières # Trois-Rivieres
+Windsor, ON # Windsor
+Markham # Markham

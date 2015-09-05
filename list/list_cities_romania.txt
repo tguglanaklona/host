@@ -1,0 +1,48 @@
+Bucharest
+Cluj-Napoca
+Timisoara
+Iasi
+Constanta
+Craiova
+Brasov
+Galati
+Ploiesti
+Oradea
+Braila
+Arad
+Pitesti
+Sibiu
+Bacau
+Targu Mures
+Baia Mare
+Buzau
+Botosani
+Satu Mare
+Ramnicu Valcea
+Drobeta-Turnu Severin
+Suceava
+Piatra Neamt
+Targu Jiu
+Targoviste
+Focsani
+Bistrita
+Tulcea
+Resita
+Slatina
+Calarasi
+Alba Iulia
+Giurgiu
+Deva
+Hunedoara
+Zalau
+Sfantu Gheorghe
+Barlad
+Vaslui
+Roman
+Turda
+Medias
+Slobozia
+Alexandria
+Miercurea Ciuc
+Buftea
+Magurele

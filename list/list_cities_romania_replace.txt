@@ -1,0 +1,12 @@
+Bras,ov # Brasov
+Constantza # Constanta
+Tirgu Mures # Targu Mures
+Bac*au # Bacau
+Constantza # Constanta
+TIMI,SOARA # Timisoara
+Magurele-Bucharest # Magurele
+Bucureşti # Bucharest
+Timişoara # Timisoara
+Târgovişte # Targoviste
+Iaşi # Iasi
+Braşov # Brasov

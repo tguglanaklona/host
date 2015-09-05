@@ -1,0 +1,605 @@
+Praha # Prague
+Plzeň # Plzen
+Pilsen # Plzen
+České Budějovice # Ceske Budejovice
+Nové Město na Moravě # Nove Mesto na Morave
+Abertamy # Abertamy
+Adamov # Adamov
+Bakov nad Jizerou # Bakov nad Jizerou
+Bavorov # Bavorov
+Bechyně # Bechyne
+Bečov nad Teplou # Becov nad Teplou
+Bělá nad Radbuzou # Bela nad Radbuzou
+Bělá pod Bezdězem # Bela pod Bezdezem
+Benátky nad Jizerou # Benatky nad Jizerou
+Benešov # Benesov
+Benešov nad Ploučnicí # Benesov nad Ploucnici
+Beroun # Beroun
+Bezdružice # Bezdruzice
+Bílina # Bilina
+Bílovec # Bilovec
+Blansko # Blansko
+Blatná # Blatna
+Blovice # Blovice
+Blšany # Blsany
+Bochov # Bochov
+Bohumín # Bohumin
+Bohušovice nad Ohří # Bohusovice nad Ohri
+Bojkovice # Bojkovice
+Borohrádek # Borohradek
+Borovany # Borovany
+Boskovice # Boskovice
+Boží Dar # Bozi Dar
+Brandýs nad Labem-Stará Boleslav # Brandys nad Labem-Stara Boleslav
+Brandýs nad Orlicí # Brandys nad Orlici
+Břeclav # Breclav
+Březnice # Breznice
+Březová nad Svitavou # Brezova nad Svitavou
+Březová # Brezova
+Břidličná # Bridlicna
+Brno # Brno
+Broumov # Broumov
+Brtnice # Brtnice
+Brumov-Bylnice # Brumov-Bylnice
+Bruntál # Bruntal
+Brušperk # Brusperk
+Bučovice # Bucovice
+Budišov nad Budišovkou # Budisov nad Budisovkou
+Budyně nad Ohří # Budyne nad Ohri
+Buštěhrad # Bustehrad
+Bystré # Bystre
+Bystřice pod Hostýnem # Bystrice pod Hostynem
+Bystřice nad Pernštejnem # Bystrice nad Pernstejnem
+Bystřice # Bystrice
+Bzenec # Bzenec
+Čáslav # Caslav
+Čelákovice # Celakovice
+Černošice # Cernosice
+Černošín # Cernosin
+Černovice # Cernovice
+Červená Řečice # Cervena recice
+Červený Kostelec # Cerveny Kostelec
+Česká Kamenice # Ceska Kamenice
+Česká Lípa # Ceska Lipa
+Česká Skalice # Ceska Skalice
+Česká Třebová # Ceska Trebova
+České Budějovice # Ceske Budejovice
+České Velenice # Ceske Velenice
+Český Brod # Cesky Brod
+Český Dub # Cesky Dub
+Český Krumlov # Cesky Krumlov
+Chabařovice # Chabarovice
+Chlumec nad Cidlinou # Chlumec nad Cidlinou
+Choceň # Chocen
+Chodov # Chodov
+Chomutov # Chomutov
+Chotěboř # Chotebor
+Chotětov # Chotetov
+Chrast  # Chrast
+Chrastava # Chrastava
+Chřibská # Chribska
+Chropyně # Chropyne
+Chrudim # Chrudim
+Chvaletice # Chvaletice
+Chýnov # Chynov
+Chyše # Chyse
+Cvikov # Cvikov
+Dačice # Dacice
+Dašice # Dasice
+Děčín # Decin
+Desná  # Desna
+Deštná # Destna
+Dětřichov  # Detrichov
+Dobřany  # Dobrany
+Dobřichovice # Dobrichovice
+Dobříš # Dobris
+Dobrovice # Dobrovice
+Dobruška # Dobruska
+Doksy # Doksy
+Dolní Benešov # Dolni Benesov
+Dolní Bousov # Dolni Bousov
+Dolní Kounice # Dolni Kounice
+Dolní Poustevna # Dolni Poustevna
+Domažlice # Domazlice
+Dřevohostice # Drevohostice
+Dubňany # Dubnany
+Duchcov # Duchcov
+Dvůr Králové nad Labem # Dvur Kralove nad Labem
+Františkovy Lázně # Frantiskovy Lazne
+Frenštát pod Radhoštěm # Frenstat pod Radhostem
+Frýdek-Místek # Frydek-Mistek
+Frýdlant # Frydlant
+Frýdlant nad Ostravicí # Frydlant nad Ostravici
+Fryšták # Frystak
+Fryštát # Frystat
+Fulnek # Fulnek
+Golčův Jeníkov # Golcuv Jenikov
+Habartov # Habartov
+Habry # Habry
+Hanušovice # Hanusovice
+Harrachov # Harrachov
+Hartmanice # Hartmanice
+Havířov # Havirov
+Havlíčkův Brod # Havlickuv Brod
+Hejnice # Hejnice
+Heřmaň # Herman
+Heřmanův Městec # Hermanuv Mestec
+Hlinsko # Hlinsko
+Hluboká nad Vltavou # Hluboka nad Vltavou
+Hlučín # Hlucin
+Hodkovice nad Mohelkou # Hodkovice nad Mohelkou
+Hodonín # Hodonin
+Holešov # Holesov
+Holice # Holice
+Holýšov # Holysov
+Hora Svaté Kateřiny # Hora Svate Kateriny
+Horažďovice # Horazdovice
+Hořice # Horice
+Horní Benešov # Horni Benesov
+Horní Blatná # Horni Blatna
+Horní Bříza # Horni Briza
+Horní Cerekev # Horni Cerekev
+Horní Jelení # Horni Jeleni
+Horní Jiřetín # Horni Jiretin
+Horní Planá # Horni Plana
+Horní Slavkov # Horni Slavkov
+Hořovice # Horovice
+Horšovský Týn # Horsovsky Tyn
+Hostinné # Hostinne
+Hostivice # Hostivice
+Hoštka # Hostka
+Hostomice # Hostomice
+Hostouň # Hostoun
+Hradec Králové # Hradec Kralove
+Hradec nad Moravicí # Hradec nad Moravici
+Hrádek nad Nisou # Hradek nad Nisou
+Hrádek # Hradek
+Hranice, Cheb District # Hranice, Cheb District
+Hranice, Přerov District # Hranice, Prerov District
+Hronov # Hronov
+Hrotovice # Hrotovice
+Hroznětín # Hroznetin
+Hrušovany nad Jevišovkou # Hrusovany nad Jevisovkou
+Hulín # Hulin
+Humpolec # Humpolec
+Husinec # Husinec
+Hustopeče # Hustopece
+Ivančice # Ivancice
+Ivanovice na Hané # Ivanovice na Hane
+Jablonec nad Jizerou # Jablonec nad Jizerou
+Jablonec nad Nisou # Jablonec nad Nisou
+Jablonné nad Orlicí # Jablonne nad Orlici
+Jablonné v Podještědí # Jablonne v Podjestedi
+Jablunkov # Jablunkov
+Jáchymov # Jachymov
+Janov  # Janov
+Janovice nad Úhlavou # Janovice nad Uhlavou
+Janské Lázně # Janske Lazne
+Jaroměř # Jaromer
+Jaroměřice nad Rokytnou # Jaromerice nad Rokytnou
+Javorník  # Javornik
+Jemnice # Jemnice
+Jesenice # Jesenice
+Jeseník # Jesenik
+Jevíčko # Jevicko
+Jevišovice # Jevisovice
+Jičín # Jicin
+Jihlava # Jihlava
+Jilemnice # Jilemnice
+Jílové # Jilove
+Jílové u Prahy # Jilove u Prahy
+Jindřichův Hradec # Jindrichuv Hradec
+Jiříkov # Jirikov
+Jirkov # Jirkov
+Kadaň # Kadan
+Kamenice nad Lipou # Kamenice nad Lipou
+Kamenický Šenov # Kamenicky senov
+Kaplice # Kaplice
+Kardašova Řečice # Kardasova recice
+Karlovy Vary # Karlovy Vary
+Karolinka # Karolinka
+Karviná # Karvina
+Kasejovice # Kasejovice
+Kašperské Hory # Kasperske Hory
+Kaznějov # Kaznejov
+Kdyně # Kdyne
+Kladno # Kladno
+Kladruby # Kladruby
+Klášterec nad Ohří # Klasterec nad Ohri
+Klatovy # Klatovy
+Klecany # Klecany
+Klimkovice # Klimkovice
+Klobouky u Brna # Klobouky u Brna
+Kojetín # Kojetin
+Kolín # Kolin
+Konice # Konice
+Kopidlno # Kopidlno
+Kopřivnice # Koprivnice
+Koryčany # Korycany
+Kosmonosy # Kosmonosy
+Košťany # Kostany
+Kostelec na Hané # Kostelec na Hane
+Kostelec nad Černými lesy # Kostelec nad cernymi lesy
+Kostelec nad Labem # Kostelec nad Labem
+Kostelec nad Orlicí # Kostelec nad Orlici
+Kouřim # Kourim
+Kožlany # Kozlany
+Králíky # Kraliky
+Kralovice # Kralovice
+Kralupy nad Vltavou # Kralupy nad Vltavou
+Králův Dvůr # Kraluv Dvur
+Kraslice # Kraslice
+Krásná Lípa # Krasna Lipa
+Krásno  # Krasno
+Kravaře # Kravare
+Krnov # Krnov
+Kroměříž # Kromeriz
+Krupka # Krupka
+Kryry # Kryry
+Kunovice # Kunovice
+Kunštát # Kunstat
+Kuřim # Kurim
+Kutná Hora # Kutna Hora
+Kyjov # Kyjov
+Kynšperk nad Ohří # Kynsperk nad Ohri
+Lanškroun # Lanskroun
+Lanškroun Pond Nature Park # Lanskroun Pond Nature Park
+Lanžhot # LanZhot
+Lázně Bělohrad # Lazne Belohrad
+Lázně Bohdaneč # Lazne Bohdanec
+Lázně Kynžvart # Lazne Kynzvart
+Ledeč nad Sázavou # Ledec nad Sazavou
+Lednice # Lednice
+Ledvice # Ledvice
+Letohrad # Letohrad
+Letovice # Letovice
+Libáň # Liban
+Libčice nad Vltavou # Libcice nad Vltavou
+Liběchov # Libechov
+Liberec # Liberec
+Libochovice # Libochovice
+Libušín # Libusin
+Lipník nad Bečvou # Lipnik nad Becvou
+Lišov # Lisov
+Liteň # Liten
+Litoměřice # Litomerice
+Litomyšl # Litomysl
+Litovel # Litovel
+Litvínov # Litvinov
+Loket # Loket
+Lomnice nad Lužnicí # Lomnice nad Luznici
+Lomnice nad Popelkou # Lomnice nad Popelkou
+Loštice # Lostice
+Loučná pod Klínovcem # Loucna pod Klinovcem
+Louny # Louny
+Lovosice # Lovosice
+Luby # Luby
+Lučany nad Nisou # Lucany nad Nisou
+Luhačovice # Luhacovice
+Lukášov # Lukasov
+Lysá nad Labem # Lysa nad Labem
+Manětín # Manetin
+Mariánské Lázně # Marianske Lazne
+Maršovice # Marsovice
+Mašťov # Mastov
+Měčín # Mecin
+Mělník # Melnik
+Městec Králové # Mestec Kralove
+Město Albrechtice # Mesto Albrechtice
+Město Touškov # Mesto Touskov
+Meziboří # Mezibori
+Meziměstí # Mezimesti
+Mikulášovice # Mikulasovice
+Mikulov # Mikulov
+Miletín # Miletin
+Milevsko # Milevsko
+Milovice # Milovice
+Mimoň # Mimon
+Miroslav # Miroslav
+Mirošov # Mirosov
+Mirotice # Mirotice
+Mirovice # Mirovice
+Mladá Boleslav # Mlada Boleslav
+Mladá Vožice # Mlada Vozice
+Mnichovice # Mnichovice
+Mnichovo Hradiště # Mnichovo Hradiste
+Mníšek pod Brdy # Mnisek pod Brdy
+Modřice # Modrice
+Mohelnice # Mohelnice
+Moravská Třebová # Moravska Trebova
+Moravské Budějovice # Moravske Budejovice
+Moravský Beroun # Moravsky Beroun
+Moravský Krumlov # Moravsky Krumlov
+Morkovice-Slížany # Morkovice-SliZany
+Mšeno # Mseno
+Náchod # Nachod
+Nalžovské Hory # Nalzovske Hory
+Náměšť nad Oslavou # Namest nad Oslavou
+Napajedla # Napajedla
+Nechanice # Nechanice
+Nejdek # Nejdek
+Němčice nad Hanou # Nemcice nad Hanou
+Nepomuk # Nepomuk
+Neratovice # Neratovice
+Netolice # Netolice
+Netvořice # Netvorice
+Neustupov # Neustupov
+Neveklov # Neveklov
+Nová Bystřice # Nova Bystrice
+Nová Paka # Nova Paka
+Nová Role # Nova Role
+Nová Včelnice # Nova Vcelnice
+Nové Hrady # Nove Hrady
+Nové Město na Moravě # Nove Mesto na Morave
+Nové Město nad Metují # Nove Mesto nad Metuji
+Nové Město pod Smrkem # Nove Mesto pod Smrkem
+Nové Sedlo # Nove Sedlo
+Nové Strašecí # Nove Straseci
+Nový Bor # Novy Bor
+Nový Bydžov # Novy BydZov
+Nový Jičín # Novy Jicin
+Nový Knín # Novy Knin
+Nymburk # Nymburk
+Nýřany # Nyrany
+Nýrsko # Nyrsko
+Odolena Voda # Odolena Voda
+Odry # Odry
+Olešnice # Olesnice
+Oloví # Olovi
+Opava # Opava
+Opočno # Opocno
+Orlová # Orlova
+Osečná # Osecna
+Osek  # Osek
+Oslavany # Oslavany
+Ostrov # Ostrov
+Otrokovice # Otrokovice
+Pacov # Pacov
+Pardubice # Pardubice
+Pec pod Sněžkou # Pec pod Snezkou
+Pečky # Pecky
+Pelhřimov # Pelhrimov
+Pěnčín # Pencin
+Petřvald # Petrvald
+Pilníkov # Pilnikov
+Písek # Pisek
+Planá nad Lužnicí # Plana nad Luznici
+Planá # Plana
+Plánice # Planice
+Plasy # Plasy
+Plesná # Plesna
+Plumlov # Plumlov
+Plzeň # Plzen
+Poběžovice # PobeZovice
+Počátky # Pocatky
+Podbořany # Podborany
+Poděbrady # Podebrady
+Podivín # Podivin
+Pohořelice # Pohorelice
+Police nad Metují # Police nad Metuji
+Polička # Policka
+Polná # Polna
+Postoloprty # Postoloprty
+Potštát # Potstat
+Prachatice # Prachatice
+Prague # Prague
+Přebuz # Prebuz
+Přelouč # Prelouc
+Přerov # Prerov
+Přeštice # Prestice
+Příbor # Pribor
+Příbram # Pribram
+Přibyslav # Pribyslav
+Přimda # Primda
+Prostějov # Prostejov
+Protivín # Protivin
+Pyšely # Pysely
+Radnice # Radnice
+Rájec-Jestřebí # Rajec-Jestrebi
+Rajhrad # Rajhrad
+Rakovník # Rakovnik
+Ralsko # Ralsko
+Raspenava # Raspenava
+Rejštejn # Rejstejn
+Řevnice # revnice
+Říčany # ricany
+Rokycany # Rokycany
+Rokytnice nad Jizerou # Rokytnice nad Jizerou
+Rokytnice v Orlických horách # Rokytnice v Orlickych horach
+Ronov nad Doubravou # Ronov nad Doubravou
+Rosice # Rosice
+Rotava # Rotava
+Roudnice nad Labem # Roudnice nad Labem
+Rousínov # Rousinov
+Rovensko pod Troskami # Rovensko pod Troskami
+Rožďalovice # Rozdalovice
+Rožmberk nad Vltavou # Rozmberk nad Vltavou
+Rožmitál pod Třemšínem # Rozmital pod Tremsinem
+Rožnov pod Radhoštěm # Roznov pod Radhostem
+Rozstání  # Rozstani
+Roztoky # Roztoky
+Rtyně v Podkrkonoší # Rtyne v Podkrkonosi
+Rudná # Rudna
+Rudolfov # Rudolfov
+Rumburk # Rumburk
+Rychnov nad Kněžnou # Rychnov nad Kneznou
+Rychnov u Jablonce nad Nisou # Rychnov u Jablonce nad Nisou
+Rychvald # Rychvald
+Rýmařov # Rymarov
+Sadská # Sadska
+Sázava # Sazava
+Sedlčany # Sedlcany
+Sedlec-Prčice # Sedlec-Prcice
+Sedlice # Sedlice
+Semily # Semily
+Šenov # Senov
+Ševětín # Sevetin
+Sezemice # Sezemice
+Sezimovo Ústí # Sezimovo Usti
+Skalná # Skalna
+Skuteč # Skutec
+Slaný # Slany
+Šlapanice # Slapanice
+Slatiňany # Slatinany
+Slavičín # Slavicin
+Slavkov u Brna # Slavkov u Brna
+Slavonice # Slavonice
+Šluknov # Sluknov
+Slušovice # Slusovice
+Smečno # Smecno
+Smiřice # Smirice
+Smržovka # SmrZovka
+Soběslav # Sobeslav
+Sobotka # Sobotka
+Sokolov # Sokolov
+Solnice # Solnice
+Sovínky # Sovinky
+Spálené Poříčí # Spalene Porici
+Špindlerův Mlýn # Spindleruv Mlyn
+Staňkov # Stankov
+Staré Město, Šumperk District # Stare Mesto, Sumperk District
+Staré Město, Uherské Hradiště District # Stare Mesto, Uherske Hradiste District
+Stárkov # Starkov
+Starý Bohumín # Stary Bohumin
+Starý Plzenec # Stary Plzenec
+Šternberk # Sternberk
+Štětí # Steti
+Štíty # Stity
+Stochov # Stochov
+Stod # Stod
+Strakonice # Strakonice
+Štramberk # Stramberk
+Stráž nad Nežárkou # Straz nad Nezarkou
+Stráž pod Ralskem # Straz pod Ralskem
+Strážnice # Straznice
+Strážov # Strazov
+Stříbro # Stribro
+Strmilov # Strmilov
+Studénka # Studenka
+Suchdol nad Lužnicí # Suchdol nad Luznici
+Šumperk # Sumperk
+Sušice # Susice
+Světlá nad Sázavou # Svetla nad Sazavou
+Švihov # Svihov
+Svitavy # Svitavy
+Svoboda nad Úpou # Svoboda nad Upou
+Svratka # Svratka
+Tábor # Tabor
+Tachov # Tachov
+Tanvald # Tanvald
+Telč # Telc
+Teplá # Tepla
+Teplice # Teplice
+Teplice nad Metují # Teplice nad Metuji
+Terezín # Terezin
+Tišnov # Tisnov
+Toužim # TouZim
+Tovačov # Tovacov
+Třebechovice pod Orebem # Trebechovice pod Orebem
+Třebenice # Trebenice
+Třebíč # Trebic
+Třeboň # Trebon
+Třemošná # Tremosna
+Třemošnice # Tremosnice
+Třešť # Trest
+Trhové Sviny # Trhove Sviny
+Trhový Štěpánov # Trhovy stepanov
+Třinec # Trinec
+Trmice # Trmice
+Trutnov # Trutnov
+Turnov # Turnov
+Týn nad Vltavou # Tyn nad Vltavou
+Týnec nad Labem # Tynec nad Labem
+Týnec nad Sázavou # Tynec nad Sazavou
+Týniště nad Orlicí # Tyniste nad Orlici
+Uherské Hradiště # Uherske Hradiste
+Uherský Brod # Uhersky Brod
+Uherský Ostroh # Uhersky Ostroh
+Uhlířské Janovice # Uhlirske Janovice
+Újezd u Brna # Ujezd u Brna
+Unhošť # Unhost
+Uničov # Unicov
+Úpice # Upice
+Úsov # Usov
+Úštěk # Ustek
+Ústí nad Labem # Usti nad Labem
+Ústí nad Orlicí # Usti nad Orlici
+Úterý # Utery
+Úvaly # Uvaly
+Valašské Klobouky # Valasske Klobouky
+Valašské Meziříčí # Valasske Mezirici
+Valtice # Valtice
+Vamberk # Vamberk
+Varnsdorf # Varnsdorf
+Vejprty # Vejprty
+Velešín # Velesin
+Velká Bíteš # Velka Bites
+Velká Bystřice # Velka Bystrice
+Velké Bílovice # Velke Bilovice
+Velké Hamry # Velke Hamry
+Velké Meziříčí # Velke Mezirici
+Velké Opatovice # Velke Opatovice
+Velké Pavlovice # Velke Pavlovice
+Velký Šenov # Velky senov
+Veltrusy # Veltrusy
+Velvary # Velvary
+Verneřice # Vernerice
+Veselí nad Lužnicí # Veseli nad Luznici
+Veselí nad Moravou # Veseli nad Moravou
+Vidnava # Vidnava
+Vimperk # Vimperk
+Vítkov # Vitkov
+Vizovice # Vizovice
+Vlachovo Březí # Vlachovo Brezi
+Vlašim # Vlasim
+Vodňany # Vodnany
+Volary # Volary
+Votice # Votice
+Vracov # Vracov
+Vraný # Vrany
+Vratimov # Vratimov
+Vrbno pod Pradědem # Vrbno pod Pradedem
+Vrchlabí # Vrchlabi
+Vrchotovy Janovice # Vrchotovy Janovice
+Vroutek # Vroutek
+Všeruby # Vseruby
+Vsetín # Vsetin
+Vyškov # Vyskov
+Výsluní # Vysluni
+Vysoké Mýto # Vysoke Myto
+Vysoké nad Jizerou # Vysoke nad Jizerou
+Vysoké Veselí # Vysoke Veseli
+Vyšší Brod # Vyssi Brod
+Zábřeh # Zabreh
+Žacléř # Zacler
+Zákupy # Zakupy
+Žamberk # Zamberk
+Žandov # Zandov
+Zásmuky # Zasmuky
+Žatec # Zatec
+Zbiroh # Zbiroh
+Zbraslav # Zbraslav
+Zbýšov # Zbysov
+Ždánice # Zdanice
+Žďár nad Sázavou # Zdar nad Sazavou
+Zdice # Zdice
+Ždírec nad Doubravou # Zdirec nad Doubravou
+Zdislavice # Zdislavice
+Žebrák # Zebrak
+Železná Ruda # Zelezna Ruda
+Železnice # Zeleznice
+Železný Brod # Zelezny Brod
+Židlochovice # Zidlochovice
+Žirovnice # Zirovnice
+Zlaté Hory # Zlate Hory
+Zlín # Zlin
+Zliv # Zliv
+Žlutice # Zlutice
+Znojmo # Znojmo
+Zruč nad Sázavou # Zruc nad Sazavou
+Zubří # Zubri
+Žulová # Zulova
+Hluk # Hluk
+Kelč # Kelc
+Hrob # Hrob
+Luže # Luze

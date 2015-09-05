@@ -1,0 +1,25 @@
+Burdwan # Bardhaman
+Berhampur # Brahmapur
+Faridbad # Faridabad
+Malda # English Bazar
+Firozpur Cantt. # Firozpur Cantonment
+Jalandhar Cantt. # Jalandhar Cantonment
+Srisailam Project (Right Flank Colony) Township # Srisailam Project
+Srisailam Project (RFC) Township # Srisailam Project
+Srisailam Project Township # Srisailam Project
+National Institute of Technology Karnataka # Mangalore
+Nirjuli # Nirjuli
+Vallabh Vidyanagar # Vallabh Vidhyanagar
+Handwara # Handwara
+IIT Kharagpur # Kharagpur, West Bengal
+Banglore # Bangalore
+Palayamkottai # Tirunelveli
+Bishop Moore College # Alappuzha
+Puducherry # Pondicherry
+Tuticorin # Thoothukudi
+Doimukh # Doimukh
+Kotagiri # Kotagiri
+Kharagpur 721302 # Kharagpur, West Bengal
+Trichy # Tiruchirappalli
+Tiruchi # Tiruchirappalli
+Nanded # Nanded

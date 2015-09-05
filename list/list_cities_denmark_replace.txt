@@ -1,0 +1,30 @@
+Taarbæk # Taarbaek
+Hjortekær # Hjortekaer
+Rådvad # Radvad
+Dyssegård # Dyssegard
+Jægersborg # Jaegersborg
+Bagsværd # Bagsvaerd
+Mørkhøj # Morkhoj
+Søborg # Buddinge
+Helsingør # Helsingor
+Elsinore # Helsingor
+Næstved # Naestved
+Tårnby # Tarnby
+Rødovre # Rodovre
+Køge # Koge
+Brøndby # Brondby
+Brøndbyvester # Brondby
+Brøndbyøster # Brondby
+Brondbyoster # Brondby
+Brøndby Strand # Brondby
+Brondby Strand # Brondby
+Albertslund # Copenhagen
+Sønderborg # Sonderborg
+Herlev # Copenhagen
+Holbæk # Holbaek
+Hjørring # Hjorring
+Hørsholm # Horsholm
+Nørresundby # Norresundby
+Ølstykke # Ølstykke-Stenløse
+Stenløse # Ølstykke-Stenløse
+Kgs. Lyngby # Kongens Lyngby

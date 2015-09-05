@@ -1,0 +1,23 @@
+Chonju # Jeonju
+Taegu # Daegu
+Kyongsan # Gyeongsan
+Chunchen # Chuncheon
+Ahnsan # Ansan
+Daejin University # Pocheon
+Kunsan # Gunsan
+Youngin # Yongin
+Pusan # Busan
+Wonkwang University # Iksan
+Gyongsan # Gyeongsan
+YoungAm-gun # Yeongam
+Masan # Changwon
+Taejon # Daejeon
+Jochiwon # Jochiwon
+Chinju # Jinju
+Seol # Seoul
+Tagegu # Daegu
+Daejon # Daejeon
+Yong In # YongIn
+Hwasung # Hwaseong
+Kyung Hee University # Seoul
+Yonsei University # Seoul
