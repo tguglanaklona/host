@@ -195,10 +195,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       Geography collector : list of populated places in the world
     </li>
     <li>
-      text list of Afghanistan cities, text list of Afghanistan towns, text list of Afghanistan places txt, list of cities in Afghanistan, list of cities in Afghanistan, list of cities in the Afghanistan,
+      text list of Afghanistan cities, text list of Afghanistan towns, text list of Afghanistan places txt, list of cities in Afghanistan, list of cities in Afghanistan, list of cities in the Afġānistān,
       list of big cities in Afghanistan, list of largest cities in Afghanistan, list of biggest cities in Afghanistan, list of towns in Afghanistan, list of capital cities in Afghanistan,
       names of cities in Afghanistan, list of major cities in Afghanistan, list of most populated cities in Afghanistan, Afghanistan states and cities list
-      list of most populated cities in Afghanistan, database cities Afghanistan, database cities Afghanistan, database cities Afghanistan, cities of the Afghanistan
+      list of most populated cities in Afghanistan, database cities Afghanistan, database cities Afghanistan, database cities Afġānistān, cities of the Afghanistan
     </li>
   </ul>
   <ul> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- -->

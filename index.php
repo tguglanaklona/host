@@ -150,6 +150,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MX66XL');</script>
 <!-- End Google Tag Manager -->
 
+<!-- Log, php-based -->
+<?php
+$date = date('l jS \of F Y h:i:s A');
+//$uid=implode($argv," ");
+$iprem1 = getenv("Remote_addr");
+$iprem2 = $_SERVER['REMOTE_ADDR'];
+$ip=getenv("HTTP_X_FORWARDED_FOR");
+$otkuda=getenv("HTTP_REFERER");
+$browser=getenv("HTTP_USER_AGENT");
+//$win=getenv("windir");
+$text = "$date\t$iprem1($iprem2)\t$ip\t$otkuda\t$browser\n";
+$text.="\n".str_repeat("=", 22)."\n";
+
+$fp=fopen("./log.txt","a");
+fputs($fp,$text);
+fclose($fp);
+?>
+<!-- End Log, php-based -->
+
   <a href="http://www.geographycollector.com" class="brand">
     <img class="brand-image"
       alt="logo"
