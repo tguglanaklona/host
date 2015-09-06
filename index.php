@@ -167,6 +167,7 @@ $fp=fopen("./log.txt","a");
 fputs($fp,$text);
 fclose($fp);
 ?>
+
 <!-- End Log, php-based -->
 
   <a href="http://www.geographycollector.com" class="brand">
