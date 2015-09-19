@@ -121,6 +121,16 @@
     clear: both;
   }
   </style>
+
+  <!-- Log, js-based -->
+  <script>
+  function jslog() {
+    var image = new Image();
+    image.src = "/log/logjs.php?xml="+window.navigator.userAgent;
+  }
+  window.onload = jslog();
+  </script>
+  <!-- End Log, js-based -->
 </head>
 <!-- Google Analytics -->
 <script type="text/javascript">
@@ -163,11 +173,10 @@ $browser=getenv("HTTP_USER_AGENT");
 $text = "$date\t$iprem1($iprem2)\t$ip\t$otkuda\t$browser\n";
 $text.="\n".str_repeat("=", 22)."\n";
 
-$fp=fopen("./log.txt","a");
+$fp=fopen("./log/log.txt","a");
 fputs($fp,$text);
 fclose($fp);
 ?>
-
 <!-- End Log, php-based -->
 
   <a href="http://www.geographycollector.com" class="brand">
