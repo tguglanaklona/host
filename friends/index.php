@@ -170,7 +170,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </p>
   <pre>
     <a href = "http://funoldtime.blogspot.com">Блог "Смешное и давнее"</a>
-    <a href="http://rusbiathlon.ru">Весь биатлон России и мира</a>
+    <a href='http://www.irdir.info/'>Интеллектуальный каталог сайтов</a>
   </pre>
   <ul>
     <li>
@@ -179,24 +179,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li>
       Geography collector : list of populated places in the world
     </li>
-    <li>  
-list of cities in the us by population,
-list of cities in the us alphabetically,
-list of cities in the us by state,
-list of cities in the us by size,
-list of cities in the us at sea level,
-list of cities in usa by population,
-list of cities in usa in alphabetical order,
-list of cities in usa by state,
-list of cities in usa by land mass,
-list of cities in usa wiki,
-list of cities in usa alphabetical order,
-list of cities in america by population,
-list of cities in america by size,
-list of cities in america alphabetical,
+    <li>
+      world cities, cities in the world, cities of the world,
+      world city, world city names, world countries and cities database, world country city database, cities of the world database,
+      free download, city data world, world cities names, data city, list of cities in the world,
+list of cities by population,
+list of cities alphabetically,
+list of cities by state,
+list of cities by size,
+list of cities at sea level,
+list of cities by population,
+list of cities in alphabetical order,
+list of cities by state,
+list of cities by land mass,
+list of cities wiki,
+list of cities alphabetical order,
+list of cities by population,
+list of cities by size,
+list of cities alphabetical,
 geographical databases,
-text list of us states,86
-s67y-+-+-+-+-+-++-0
 text list of countries
     </li>
   </ul>
