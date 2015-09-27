@@ -1,0 +1,1584 @@
+Thursday 24th of September 2015 11:11:01 AM	::1(::1)		http://localhost:8080/host/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:28:31 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.geographycollector.com/friends/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:28:58 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.geographycollector.com/friends/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:30:20 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.irdir.info/ru/ext/dir-resource/51595/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:32:36 AM	127.6.83.129(127.6.83.129)	105.147.23.68	http://m.facebook.com/	Mozilla/5.0 (Linux; Android 4.2.2; GT-S7580 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:34:53 AM	127.6.83.129(127.6.83.129)	91.77.28.14	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:38:00 AM	127.6.83.129(127.6.83.129)	91.77.28.14	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:40:08 AM	127.6.83.129(127.6.83.129)	109.110.40.126	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:41:26 AM	127.6.83.129(127.6.83.129)	213.21.34.154	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:43:48 AM	127.6.83.129(127.6.83.129)	2.206.0.167	http://www.jarti.co/article-2853	Mozilla/5.0 (Linux; Android 4.4.2; it-it; SAMSUNG GT-I9505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:43:57 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D1%8B-aliexpress-%D0%BA%D1%83%D0%BF%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B2-%D1%8D%D1%82%D0%BE%D0%B9-%D1%82%D0%B5%D0%BC%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:43:59 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D1%8B-aliexpress-%D0%BA%D1%83%D0%BF%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B2-%D1%8D%D1%82%D0%BE%D0%B9-%D1%82%D0%B5%D0%BC%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:44:00 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D1%8B-aliexpress-%D0%BA%D1%83%D0%BF%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B2-%D1%8D%D1%82%D0%BE%D0%B9-%D1%82%D0%B5%D0%BC%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:44:44 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D1%8B-aliexpress-%D0%BA%D1%83%D0%BF%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B2-%D1%8D%D1%82%D0%BE%D0%B9-%D1%82%D0%B5%D0%BC%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:45:52 AM	127.6.83.129(127.6.83.129)	95.69.201.238	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:45:53 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:45:56 AM	127.6.83.129(127.6.83.129)	95.69.201.238	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:45:57 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:46:03 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D1%8B-aliexpress-%D0%BA%D1%83%D0%BF%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B2-%D1%8D%D1%82%D0%BE%D0%B9-%D1%82%D0%B5%D0%BC%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:46:04 AM	127.6.83.129(127.6.83.129)	95.69.201.238	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:46:10 AM	127.6.83.129(127.6.83.129)	95.69.201.238	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:46:11 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D1%8B-aliexpress-%D0%BA%D1%83%D0%BF%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B2-%D1%8D%D1%82%D0%BE%D0%B9-%D1%82%D0%B5%D0%BC%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:46:21 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=291&t=103768&p=2877236&st=12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:46:22 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=291&t=103768&p=2877236&st=12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:46:23 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=291&t=103768&p=2877236&st=12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:46:31 AM	127.6.83.129(127.6.83.129)	178.140.196.95	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
+
+======================
+Saturday 26th of September 2015 08:48:10 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:48:17 AM	127.6.83.129(127.6.83.129)	94.251.44.146	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; SM-G355H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:48:20 AM	127.6.83.129(127.6.83.129)	5.34.56.72	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:53:37 AM	127.6.83.129(127.6.83.129)	95.69.201.238	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:53:59 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/144456-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-%d0%be%d1%82-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d1%86%d0%be%d0%b2-%d0%bd%d0%b0-aliexpresscom/page__st__3980	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:54:36 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/144456-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-%d0%be%d1%82-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d1%86%d0%be%d0%b2-%d0%bd%d0%b0-aliexpresscom/page__st__3980__gopid__2877240	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:54:49 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/144456-%D0%BA%D1%83%D0%BF%D0%BE%D0%BD%D1%8B-%D0%BE%D1%82-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D1%86%D0%BE%D0%B2-%D0%BD%D0%B0-aliexpresscom/page__st__3980__gopid__2877240	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:05:19 AM	127.6.83.129(127.6.83.129)	109.188.127.3	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:06:47 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/152378-%d0%bf%d0%be%d1%88%d0%bb%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8-2014-2015-%d0%b3-%d0%b0%d0%ba%d1%82%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84/page__st__8300__gopid__2877243	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:07:16 AM	127.6.83.129(127.6.83.129)	80.91.173.190	http://www.taker.im/phpBB2/topic/144456-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-%d0%be%d1%82-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d1%86%d0%be%d0%b2-%d0%bd%d0%b0-aliexpresscom/page__st__3980	Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:07:58 AM	127.6.83.129(127.6.83.129)	5.18.55.92	http://www.taker.im/phpBB2/topic/152378-%d0%bf%d0%be%d1%88%d0%bb%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8-2014-2015-%d0%b3-%d0%b0%d0%ba%d1%82%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84/page__st__8300	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 09:09:48 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40__gopid__2877244	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:10:47 AM	127.6.83.129(127.6.83.129)	5.18.55.92	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 09:11:39 AM	127.6.83.129(127.6.83.129)	85.175.114.68	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH P320X Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:12:12 AM	127.6.83.129(127.6.83.129)	80.92.25.46	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__pid__2877244__st__40	Mozilla/5.0 (Linux; Android 4.2.2; Lenovo B8000-H Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:17:25 AM	127.6.83.129(127.6.83.129)	176.214.191.80	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:17:45 AM	127.6.83.129(127.6.83.129)	37.146.77.200	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:18:23 AM	127.6.83.129(127.6.83.129)	37.145.59.196	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.14 (KHTML, like Gecko) Version/6.0.1 Safari/536.26.14
+
+======================
+Saturday 26th of September 2015 09:20:07 AM	127.6.83.129(127.6.83.129)	37.113.102.81	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:20:11 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:20:18 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:23:05 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:23:11 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:23:13 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:23:15 AM	127.6.83.129(127.6.83.129)	46.39.53.126	http://www.taker.im/phpBB2/topic/152378-%d0%bf%d0%be%d1%88%d0%bb%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8-2014-2015-%d0%b3-%d0%b0%d0%ba%d1%82%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84/page__pid__2877243__st__8300	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:23:21 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:24:15 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:24:37 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:24:48 AM	127.6.83.129(127.6.83.129)	5.18.174.123	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:24:53 AM	127.6.83.129(127.6.83.129)	5.18.174.123	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:25:25 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:27:11 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:27:20 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:27:24 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:27:40 AM	127.6.83.129(127.6.83.129)	81.163.173.91	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:27:46 AM	127.6.83.129(127.6.83.129)	5.149.157.31		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:28:31 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:28:46 AM	127.6.83.129(127.6.83.129)	212.21.5.91	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 09:30:17 AM	127.6.83.129(127.6.83.129)	5.18.174.123		Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:32:08 AM	127.6.83.129(127.6.83.129)	5.18.174.123	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:32:59 AM	127.6.83.129(127.6.83.129)	188.186.67.115	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 09:33:28 AM	127.6.83.129(127.6.83.129)	92.126.7.140	http://www.taker.im/phpBB2/topic/152378-%D0%BF%D0%BE%D1%88%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BD%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B8-2014-2015-%D0%B3-%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84/page__st__8300	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:33:32 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/user/370854-stonepans/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:33:38 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:33:45 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:34:02 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:34:25 AM	127.6.83.129(127.6.83.129)	92.126.7.140	http://www.taker.im/phpBB2/topic/152378-%d0%bf%d0%be%d1%88%d0%bb%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8-2014-2015-%d0%b3-%d0%b0%d0%ba%d1%82%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84/page__st__8300__gopid__2877254	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:35:24 AM	127.6.83.129(127.6.83.129)	149.154.167.163		TelegramBot (like TwitterBot)
+
+======================
+Saturday 26th of September 2015 09:36:55 AM	127.6.83.129(127.6.83.129)	5.18.174.123	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:37:01 AM	127.6.83.129(127.6.83.129)	46.191.246.81	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:37:13 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:37:41 AM	127.6.83.129(127.6.83.129)	93.125.27.35	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:38:12 AM	127.6.83.129(127.6.83.129)	5.18.174.123	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:38:41 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:38:51 AM	127.6.83.129(127.6.83.129)	178.93.254.76	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:39:20 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:39:49 AM	127.6.83.129(127.6.83.129)	93.125.27.35	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:40:11 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:40:13 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:40:24 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:40:48 AM	127.6.83.129(127.6.83.129)	95.79.31.105	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:40:58 AM	127.6.83.129(127.6.83.129)	31.13.110.100		facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+======================
+Saturday 26th of September 2015 09:41:01 AM	127.6.83.129(127.6.83.129)	95.79.31.105	http://www.taker.im/phpBB2/topic/103768-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d1%8b-aliexpress-%d0%ba%d1%83%d0%bf%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%82%d0%b5%d0%bc%d0%b5-%d0%b7%d0%b0%d0%bf%d1%80%d0%b5%d1%89%d0%b5%d0%bd%d0%b0/page__st__12380	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:41:03 AM	127.6.83.129(127.6.83.129)	83.220.51.235	https://www.facebook.com	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:41:09 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:42:42 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:42:46 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:43:00 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:44:25 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:44:42 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:45:18 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:45:35 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:45:48 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:46:10 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:46:21 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-375	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:46:33 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-374	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:46:41 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-373	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:46:49 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-300	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:46:53 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:47:04 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-100	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:47:29 AM	127.6.83.129(127.6.83.129)	151.31.85.50	http://www.taker.im/phpBB2/topic/152378-%d0%bf%d0%be%d1%88%d0%bb%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8-2014-2015-%d0%b3-%d0%b0%d0%ba%d1%82%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84/page__st__8300	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASMJS; rv:11.0) like Gecko
+
+======================
+Saturday 26th of September 2015 09:49:30 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-100	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:49:47 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:50:31 AM	127.6.83.129(127.6.83.129)	5.18.55.92	http://www.taker.im/phpBB2/topic/152378-%d0%bf%d0%be%d1%88%d0%bb%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8-2014-2015-%d0%b3-%d0%b0%d0%ba%d1%82%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84/page__st__8300	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 09:50:53 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:50:58 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-100	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:51:14 AM	127.6.83.129(127.6.83.129)	83.149.9.136	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:52:12 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:52:30 AM	127.6.83.129(127.6.83.129)	5.18.174.123	http://www.taker.im/phpBB2/topic/131706-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B2%D0%B0%D1%80%D0%BA%D0%B0/page__st__40	Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:53:22 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=78&t=177002&p=2877258&st=	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:53:54 AM	127.6.83.129(127.6.83.129)	95.24.179.116	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:54:56 AM	127.6.83.129(127.6.83.129)	176.99.71.179	http://www.taker.im/phpBB2/topic/152378-%d0%bf%d0%be%d1%88%d0%bb%d0%b8%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8-2014-2015-%d0%b3-%d0%b0%d0%ba%d1%82%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84/page__pid__2877254__st__8300	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 09:55:35 AM	127.6.83.129(127.6.83.129)	5.18.174.123	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=78&t=177002&p=2877258&st=	Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:58:34 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:59:51 AM	127.6.83.129(127.6.83.129)	176.106.150.105	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 09:59:56 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/topic/131706-%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d0%b8%d0%b2%d0%b0%d1%80%d0%ba%d0%b0/page__st__40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:00:55 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:01:33 AM	127.6.83.129(127.6.83.129)	5.149.157.31		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:01:57 AM	127.6.83.129(127.6.83.129)	41.137.68.233	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:03:32 AM	127.6.83.129(127.6.83.129)	41.137.68.233	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:04:40 AM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 10:05:05 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 10:05:11 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-100	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 10:05:22 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-10	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 10:05:32 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-15	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 10:06:21 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-70	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 10:07:04 AM	127.6.83.129(127.6.83.129)	188.32.95.33	http://m.babyblog.ru/user/lenta/id802037	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 10:09:37 AM	127.6.83.129(127.6.83.129)	83.149.35.225	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 10:10:17 AM	127.6.83.129(127.6.83.129)	31.173.84.122	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (Linux; Android 4.4.4; SM-A300F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:10:26 AM	127.6.83.129(127.6.83.129)	41.248.142.138	http://www.jarti.co/article-2750	Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 10:19:15 AM	127.6.83.129(127.6.83.129)	95.84.252.168	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+
+======================
+Saturday 26th of September 2015 10:21:16 AM	127.6.83.129(127.6.83.129)	213.87.159.153	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.4.2; ru-ru; SAMSUNG SM-P605 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:23:23 AM	127.6.83.129(127.6.83.129)	46.148.132.134	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:32:50 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-99	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 10:37:33 AM	127.6.83.129(127.6.83.129)	178.66.145.194	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 10:43:16 AM	127.6.83.129(127.6.83.129)	188.247.214.18	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:43:36 AM	127.6.83.129(127.6.83.129)	185.13.106.93	http://www.jarti.co/article-1012	Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 7047D Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:44:23 AM	127.6.83.129(127.6.83.129)	176.59.72.13	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; GT-P5100 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.78 Safari/537.36 OPR/32.0.1953.96244
+
+======================
+Saturday 26th of September 2015 10:46:14 AM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:46:46 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:47:02 AM	127.6.83.129(127.6.83.129)	105.154.84.16	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:52:47 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-101	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 10:52:49 AM	127.6.83.129(127.6.83.129)	41.248.225.26	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+
+======================
+Saturday 26th of September 2015 10:59:54 AM	127.6.83.129(127.6.83.129)	89.251.156.148	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; HTC_One_S Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+
+======================
+Saturday 26th of September 2015 11:00:20 AM	127.6.83.129(127.6.83.129)	41.249.113.95	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:00:57 AM	127.6.83.129(127.6.83.129)	89.251.156.148	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; HTC_One_S Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+
+======================
+Saturday 26th of September 2015 11:01:50 AM	127.6.83.129(127.6.83.129)	80.73.162.94	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 11:01:56 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-199	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 11:03:49 AM	127.6.83.129(127.6.83.129)	178.70.156.114	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; GT-P5200 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 YaBrowser/15.6.2311.5738.01 Yowser/2.0.2 Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:08:02 AM	127.6.83.129(127.6.83.129)	213.87.145.157	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; ru-ru; SAMSUNG SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:08:34 AM	127.6.83.129(127.6.83.129)	217.170.124.109	http://www.babyblog.ru/community/lenta/perambulator/12114	Mozilla/5.0 (iPad; CPU OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 11:09:31 AM	127.6.83.129(127.6.83.129)	31.173.85.116	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 11:10:02 AM	127.6.83.129(127.6.83.129)	178.140.196.95	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
+
+======================
+Saturday 26th of September 2015 11:17:28 AM	127.6.83.129(127.6.83.129)	46.148.132.134	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:31:11 AM	127.6.83.129(127.6.83.129)	109.188.127.42	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G850F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:36:53 AM	127.6.83.129(127.6.83.129)	178.184.159.95	http://m.babyblog.ru/community/lenta/perambulator/12113	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 11:38:09 AM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:39:11 AM	127.6.83.129(127.6.83.129)	95.179.83.83	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; DIGMA iDsD8 3G Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+
+======================
+Saturday 26th of September 2015 11:41:32 AM	127.6.83.129(127.6.83.129)	46.39.35.135	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 11:42:42 AM	127.6.83.129(127.6.83.129)	91.78.206.69	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 11:45:53 AM	127.6.83.129(127.6.83.129)	78.25.7.23	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:47:28 AM	127.6.83.129(127.6.83.129)	188.32.95.33	http://m.babyblog.ru/user/lenta/id802037	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 11:48:54 AM	127.6.83.129(127.6.83.129)	85.93.58.25	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:56:22 AM	127.6.83.129(127.6.83.129)	46.146.16.42	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 11:57:53 AM	127.6.83.129(127.6.83.129)	46.146.16.42	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 12:01:19 PM	127.6.83.129(127.6.83.129)	46.188.121.63	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 12:04:25 PM	127.6.83.129(127.6.83.129)	46.146.16.42	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 12:06:02 PM	127.6.83.129(127.6.83.129)	94.230.140.14	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:13:45 PM	127.6.83.129(127.6.83.129)	95.26.83.213	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+
+======================
+Saturday 26th of September 2015 12:15:53 PM	127.6.83.129(127.6.83.129)	46.39.230.40	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:16:38 PM	127.6.83.129(127.6.83.129)	105.141.149.112	http://www.jarti.co/article-31	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+
+======================
+Saturday 26th of September 2015 12:19:00 PM	127.6.83.129(127.6.83.129)	46.109.134.220	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.89 Mobile/12H143 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 12:20:24 PM	127.6.83.129(127.6.83.129)	196.12.240.226	http://www.jarti.co/article-187	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:29:03 PM	127.6.83.129(127.6.83.129)	185.19.22.2	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; ru-ru; SAMSUNG SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:29:37 PM	127.6.83.129(127.6.83.129)	62.33.91.197	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 12:31:29 PM	127.6.83.129(127.6.83.129)	217.15.193.101	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:32:34 PM	127.6.83.129(127.6.83.129)	128.68.43.178	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:33:40 PM	127.6.83.129(127.6.83.129)	91.78.62.205	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 12:37:57 PM	127.6.83.129(127.6.83.129)	41.141.172.99	http://www.jarti.co/article-2853	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321 [FBAN/FBIOS;FBAV/39.1.0.41.31;FBBV/14951342;FBDV/iPad3,6;FBMD/iPad;FBSN/iPhone OS;FBSV/8.4.1;FBSS/2; FBCR/Carrier;FBID/tablet;FBLC/fr_FR;FBOP/1]
+
+======================
+Saturday 26th of September 2015 12:38:38 PM	127.6.83.129(127.6.83.129)	45.219.141.231	http://www.jarti.co/article-295	Mozilla/5.0 (Linux; Android 4.4.2; fr-fr; SAMSUNG SM-T531 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:42:40 PM	127.6.83.129(127.6.83.129)	41.142.59.48	http://www.jarti.co/article-224	Mozilla/5.0 (Linux; Android 4.2.2; GT-P5100 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:49:26 PM	127.6.83.129(127.6.83.129)	213.87.240.210	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:51:05 PM	127.6.83.129(127.6.83.129)	90.154.75.165	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.0.3; Transformer TF101 Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Safari/537.36
+
+======================
+Saturday 26th of September 2015 12:54:53 PM	127.6.83.129(127.6.83.129)	95.129.63.81	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 01:07:29 PM	127.6.83.129(127.6.83.129)	176.194.145.19	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 01:11:15 PM	127.6.83.129(127.6.83.129)	77.51.170.30	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 01:18:08 PM	127.6.83.129(127.6.83.129)	46.159.159.133	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1104.222 YaBrowser/1.5.1104.222 Safari/537.4
+
+======================
+Saturday 26th of September 2015 01:19:22 PM	127.6.83.129(127.6.83.129)	109.252.77.131	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 01:25:54 PM	127.6.83.129(127.6.83.129)	41.140.12.225	http://www.jarti.co/article-2700	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+
+======================
+Saturday 26th of September 2015 01:28:30 PM	127.6.83.129(127.6.83.129)	212.35.185.58	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A7600-H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 01:35:21 PM	127.6.83.129(127.6.83.129)	46.38.47.144	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 01:35:54 PM	127.6.83.129(127.6.83.129)	46.38.47.144	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 01:37:11 PM	127.6.83.129(127.6.83.129)	94.75.173.140	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; GT-I9192 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 01:38:48 PM	127.6.83.129(127.6.83.129)	178.140.31.111	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G850F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 01:40:41 PM	127.6.83.129(127.6.83.129)	172.19.116.61, 193.142.57.4	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+======================
+Saturday 26th of September 2015 01:42:23 PM	127.6.83.129(127.6.83.129)	91.207.27.56	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+======================
+Saturday 26th of September 2015 01:50:56 PM	127.6.83.129(127.6.83.129)	185.27.208.17	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 01:52:29 PM	127.6.83.129(127.6.83.129)	178.215.107.75	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 01:54:44 PM	127.6.83.129(127.6.83.129)	197.129.39.33	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+======================
+Saturday 26th of September 2015 01:56:59 PM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Saturday 26th of September 2015 01:59:07 PM	127.6.83.129(127.6.83.129)	197.144.35.225	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0
+
+======================
+Saturday 26th of September 2015 02:03:40 PM	127.6.83.129(127.6.83.129)	197.144.35.225	http://www.jarti.co/article-2853	Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0
+
+======================
+Saturday 26th of September 2015 02:04:43 PM	127.6.83.129(127.6.83.129)	178.167.125.216	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 02:11:01 PM	127.6.83.129(127.6.83.129)	105.154.112.181, 66.249.93.228	http://www.jarti.co/article-173	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+
+======================
+Saturday 26th of September 2015 02:21:12 PM	127.6.83.129(127.6.83.129)	41.141.195.54	http://www.jarti.co/article-497	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.42 Safari/537.36
+
+======================
+Saturday 26th of September 2015 02:25:15 PM	127.6.83.129(127.6.83.129)	195.16.110.193	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; GT-P5100 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.78 Safari/537.36 OPR/30.0.1856.95530
+
+======================
+Saturday 26th of September 2015 02:26:27 PM	127.6.83.129(127.6.83.129)	178.167.125.216	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 02:32:05 PM	127.6.83.129(127.6.83.129)	46.188.36.143	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 02:36:42 PM	127.6.83.129(127.6.83.129)	91.234.167.196	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 02:38:24 PM	127.6.83.129(127.6.83.129)	46.181.86.152	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAARJS; rv:11.0) like Gecko
+
+======================
+Saturday 26th of September 2015 02:54:50 PM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Saturday 26th of September 2015 02:55:19 PM	127.6.83.129(127.6.83.129)	178.57.116.11, 66.102.9.106	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.1.2; A500 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Safari/537.36
+
+======================
+Saturday 26th of September 2015 02:55:48 PM	127.6.83.129(127.6.83.129)	31.173.80.90	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; ru-ru; SAMSUNG GT-I9200 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 02:56:32 PM	127.6.83.129(127.6.83.129)	172.19.116.61, 193.142.57.4	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+======================
+Saturday 26th of September 2015 02:59:26 PM	127.6.83.129(127.6.83.129)	95.24.179.116	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 03:02:13 PM	127.6.83.129(127.6.83.129)	95.24.179.116	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 03:10:05 PM	127.6.83.129(127.6.83.129)	91.185.90.225	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 03:11:55 PM	127.6.83.129(127.6.83.129)	213.24.132.211	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25 (Edition Yx)
+
+======================
+Saturday 26th of September 2015 03:14:22 PM	127.6.83.129(127.6.83.129)	94.45.203.159	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 03:26:59 PM	127.6.83.129(127.6.83.129)	178.219.42.212	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 5.1.1; D6603 Build/23.4.A.0.546) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 03:37:38 PM	127.6.83.129(127.6.83.129)	77.79.178.13	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 03:45:46 PM	127.6.83.129(127.6.83.129)	31.40.99.197	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 03:45:56 PM	127.6.83.129(127.6.83.129)	104.197.109.210		NerdyBot
+
+======================
+Saturday 26th of September 2015 03:47:42 PM	127.6.83.129(127.6.83.129)	83.220.238.203		Mozilla/5.0 (Linux; Android 5.0.2; HTC One Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 03:48:04 PM	127.6.83.129(127.6.83.129)	188.124.228.105	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 04:13:38 PM	127.6.83.129(127.6.83.129)	83.220.238.203	http://www.geographycollector.com/list/index_latvia.php	Mozilla/5.0 (Linux; Android 5.0.2; HTC One Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 04:29:31 PM	127.6.83.129(127.6.83.129)	41.141.195.54	http://www.jarti.co/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.42 Safari/537.36
+
+======================
+Saturday 26th of September 2015 04:40:26 PM	127.6.83.129(127.6.83.129)	2.61.147.156	http://www.babyblog.ru/community/post/perambulator/3119097	Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.15
+
+======================
+Saturday 26th of September 2015 04:46:20 PM	127.6.83.129(127.6.83.129)	46.148.18.74		Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+======================
+Saturday 26th of September 2015 04:46:35 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 04:52:32 PM	127.6.83.129(127.6.83.129)	144.76.202.227		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+
+======================
+Saturday 26th of September 2015 04:52:39 PM	127.6.83.129(127.6.83.129)	5.9.88.82		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+
+======================
+Saturday 26th of September 2015 04:52:40 PM	127.6.83.129(127.6.83.129)	144.76.202.227		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+
+======================
+Saturday 26th of September 2015 04:55:02 PM	127.6.83.129(127.6.83.129)	188.40.32.134		
+
+======================
+Saturday 26th of September 2015 05:00:00 PM	127.6.83.129(127.6.83.129)	5.141.213.91	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+
+======================
+Saturday 26th of September 2015 05:14:27 PM	127.6.83.129(127.6.83.129)	188.32.166.1	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 05:16:27 PM	127.6.83.129(127.6.83.129)	31.23.199.171	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 05:16:46 PM	127.6.83.129(127.6.83.129)	31.23.199.171	http://www.babyblog.ru/community/post/perambulator/3119441	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 05:20:20 PM	127.6.83.129(127.6.83.129)	93.78.84.40	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 05:30:17 PM	127.6.83.129(127.6.83.129)	95.153.133.68	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME
+
+======================
+Saturday 26th of September 2015 05:46:14 PM	127.6.83.129(127.6.83.129)	31.173.80.158	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; Philips W8510 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+
+======================
+Saturday 26th of September 2015 05:48:09 PM	127.6.83.129(127.6.83.129)	83.149.35.22	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; C2105 Build/15.3.A.1.17) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 05:57:18 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/test.html?p=0	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 05:58:02 PM	127.6.83.129(127.6.83.129)	87.117.14.149	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 05:59:36 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://localhost:8080/tests/index2.php	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 05:59:36 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://localhost:8080/tests/index2.php	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 05:59:36 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://localhost:8080/tests/index2.php	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:03:40 PM	127.6.83.129(127.6.83.129)	5.18.67.9	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 06:03:58 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 06:04:06 PM	127.6.83.129(127.6.83.129)	5.18.67.9	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 06:07:29 PM	127.6.83.129(127.6.83.129)	176.15.236.127	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Saturday 26th of September 2015 06:08:28 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 06:08:48 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 06:08:48 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 06:10:02 PM	127.6.83.129(127.6.83.129)	95.46.82.2	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:11:10 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:16:40 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:18:35 PM	127.6.83.129(127.6.83.129)	2.61.23.154	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:22:08 PM	127.6.83.129(127.6.83.129)	37.112.156.210	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:23:44 PM	127.6.83.129(127.6.83.129)	83.220.239.12	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.1.2; GT-I9260 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:26:13 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/account/5365301	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:26:43 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/account/5365301	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:27:26 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/account/5365301	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:27:43 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/account/5365301	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:31:59 PM	127.6.83.129(127.6.83.129)	109.68.184.74	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:33:11 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/account/5365301	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:33:18 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/account/5365301	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:33:27 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://cackle.me/account/5365301	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:36:32 PM	127.6.83.129(127.6.83.129)	188.35.130.148	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 06:39:04 PM	127.6.83.129(127.6.83.129)	178.66.169.154	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 06:43:11 PM	127.6.83.129(127.6.83.129)	188.35.130.148	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 06:45:26 PM	127.6.83.129(127.6.83.129)	46.165.43.16	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 06:46:30 PM	127.6.83.129(127.6.83.129)	109.252.20.193	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 07:04:59 PM	127.6.83.129(127.6.83.129)	95.24.213.166	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+
+======================
+Saturday 26th of September 2015 07:07:45 PM	127.6.83.129(127.6.83.129)	46.191.159.209	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+
+======================
+Saturday 26th of September 2015 07:24:19 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 07:36:48 PM	127.6.83.129(127.6.83.129)	46.73.251.153	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 07:38:24 PM	127.6.83.129(127.6.83.129)	46.73.251.153	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 07:40:18 PM	127.6.83.129(127.6.83.129)	46.73.251.153	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 07:46:55 PM	127.6.83.129(127.6.83.129)	188.32.95.33	http://m.babyblog.ru/user/lenta/id802037	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 07:48:38 PM	127.6.83.129(127.6.83.129)	188.32.95.33	http://m.babyblog.ru/user/lenta/id802037	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 07:51:56 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-199	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 07:53:17 PM	127.6.83.129(127.6.83.129)	109.194.14.218	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 07:53:22 PM	127.6.83.129(127.6.83.129)	217.118.90.223	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; 6037Y Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 07:53:36 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 07:54:18 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 07:55:50 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-201	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 07:57:45 PM	127.6.83.129(127.6.83.129)	46.73.251.153	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 07:57:50 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-203	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 07:58:23 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-204	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:02:29 PM	127.6.83.129(127.6.83.129)	83.220.239.219	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 08:03:40 PM	127.6.83.129(127.6.83.129)	31.181.115.11	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:04:20 PM	127.6.83.129(127.6.83.129)	31.181.115.11	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:06:11 PM	127.6.83.129(127.6.83.129)	89.223.59.73	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.51 Mobile/12F69 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:08:20 PM	127.6.83.129(127.6.83.129)	185.13.112.47	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Android 4.4.4; Tablet; rv:41.0) Gecko/41.0 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:10:02 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-204	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:11:25 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-204	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:16:15 PM	127.6.83.129(127.6.83.129)	79.165.76.164	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2516.0 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:22:15 PM	127.6.83.129(127.6.83.129)	89.109.203.124	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 08:22:27 PM	127.6.83.129(127.6.83.129)	31.163.100.36	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:22:29 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-204	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:26:10 PM	127.6.83.129(127.6.83.129)	178.67.92.145	http://www.babyblog.ru/community/post/krasota/3062341	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:30:40 PM	127.6.83.129(127.6.83.129)	46.73.249.123	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:34:06 PM	127.6.83.129(127.6.83.129)	176.109.189.92	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A5500-F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:34:57 PM	127.6.83.129(127.6.83.129)	89.178.153.12	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Saturday 26th of September 2015 08:36:25 PM	127.6.83.129(127.6.83.129)	185.13.45.214	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.4.2; ru-ru; SAMSUNG SM-P905 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:42:17 PM	127.6.83.129(127.6.83.129)	91.235.244.187	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.3; C1905 Build/15.4.A.1.9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:45:23 PM	127.6.83.129(127.6.83.129)	37.190.62.194	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.50.2 (KHTML, like Gecko) Version/5.0.6 Safari/533.22.3
+
+======================
+Saturday 26th of September 2015 08:46:12 PM	127.6.83.129(127.6.83.129)	46.138.218.22	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:46:42 PM	127.6.83.129(127.6.83.129)	142.163.77.13	http://buttons-for-website.com	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:50:06 PM	127.6.83.129(127.6.83.129)	77.232.152.111	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.9.2403.2772.10 Mobile/13A404 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:51:09 PM	127.6.83.129(127.6.83.129)	83.237.194.185	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:53:59 PM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Saturday 26th of September 2015 08:55:23 PM	127.6.83.129(127.6.83.129)	5.141.230.229	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:55:29 PM	127.6.83.129(127.6.83.129)	217.118.64.49, 82.145.223.18	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.0.3; GT-P3100 Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.107 Safari/537.36 OPR/29.0.1809.92117
+
+======================
+Saturday 26th of September 2015 08:56:39 PM	127.6.83.129(127.6.83.129)	5.141.230.229	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 08:56:45 PM	127.6.83.129(127.6.83.129)	2.92.179.117	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 08:56:54 PM	127.6.83.129(127.6.83.129)	80.92.25.46	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Linux; Android 4.2.2; Lenovo B8000-H Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Saturday 26th of September 2015 08:58:24 PM	127.6.83.129(127.6.83.129)	2.92.179.117	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:00:01 PM	127.6.83.129(127.6.83.129)	5.141.230.229	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 09:01:19 PM	127.6.83.129(127.6.83.129)	31.172.211.204	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:08:28 PM	127.6.83.129(127.6.83.129)	87.208.131.42	http://m.babyblog.ru/community/post/perambulator/3119097	Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 09:10:01 PM	127.6.83.129(127.6.83.129)	109.188.126.21	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:11:42 PM	127.6.83.129(127.6.83.129)	88.147.153.218	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:17:31 PM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Saturday 26th of September 2015 09:27:13 PM	127.6.83.129(127.6.83.129)	176.77.118.62	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 09:30:37 PM	127.6.83.129(127.6.83.129)	91.78.206.69	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 09:40:12 PM	127.6.83.129(127.6.83.129)	46.151.156.194	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:46:24 PM	127.6.83.129(127.6.83.129)	188.32.95.33	http://m.babyblog.ru/user/lenta/id802037	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Saturday 26th of September 2015 09:46:44 PM	127.6.83.129(127.6.83.129)	46.151.156.194	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Saturday 26th of September 2015 09:49:41 PM	127.6.83.129(127.6.83.129)	193.151.41.111	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 09:50:44 PM	127.6.83.129(127.6.83.129)	46.39.50.161	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; U; Android 4.0.4; ru-ru; GT-P5100 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+
+======================
+Saturday 26th of September 2015 10:01:40 PM	127.6.83.129(127.6.83.129)	212.13.107.198	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 10:18:13 PM	127.6.83.129(127.6.83.129)	177.202.218.238	http://video--production.com	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:24:15 PM	127.6.83.129(127.6.83.129)	83.220.237.81	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/33.0.0.0 Safari/534.24
+
+======================
+Saturday 26th of September 2015 10:24:49 PM	127.6.83.129(127.6.83.129)	93.81.228.227	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 5.0.2; SM-A500F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:30:26 PM	127.6.83.129(127.6.83.129)	188.32.65.58	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:49:25 PM	127.6.83.129(127.6.83.129)	128.72.181.13	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 10:54:11 PM	127.6.83.129(127.6.83.129)	95.128.242.178	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 10:57:20 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 10:58:49 PM	127.6.83.129(127.6.83.129)	77.233.198.46	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 11:01:49 PM	127.6.83.129(127.6.83.129)	77.233.198.46	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1.4
+
+======================
+Saturday 26th of September 2015 11:02:47 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 11:03:53 PM	127.6.83.129(127.6.83.129)	91.77.242.66	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:09:18 PM	127.6.83.129(127.6.83.129)	109.207.85.167	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Saturday 26th of September 2015 11:10:49 PM	127.6.83.129(127.6.83.129)	109.68.173.48	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Saturday 26th of September 2015 11:25:53 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 11:28:09 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 11:30:11 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 11:38:15 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 11:39:14 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Saturday 26th of September 2015 11:54:36 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Sunday 27th of September 2015 12:30:54 AM	127.6.83.129(127.6.83.129)	77.178.127.38	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 12:43:01 AM	127.6.83.129(127.6.83.129)	77.82.190.162	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 02:38:05 AM	127.6.83.129(127.6.83.129)	41.92.105.212	http://www.jarti.co/article-199	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+
+======================
+Sunday 27th of September 2015 04:21:43 AM	127.6.83.129(127.6.83.129)	176.125.216.202	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 04:30:49 AM	127.6.83.129(127.6.83.129)	95.24.192.150	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+
+======================
+Sunday 27th of September 2015 04:48:50 AM	127.6.83.129(127.6.83.129)	95.78.94.201	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 04:49:46 AM	127.6.83.129(127.6.83.129)	95.78.94.201	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 04:52:11 AM	127.6.83.129(127.6.83.129)	5.19.236.233		Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Sunday 27th of September 2015 05:30:25 AM	127.6.83.129(127.6.83.129)	188.32.95.33	http://m.babyblog.ru/user/lenta/id802037	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Sunday 27th of September 2015 05:41:27 AM	127.6.83.129(127.6.83.129)	188.32.95.33	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Sunday 27th of September 2015 05:55:19 AM	127.6.83.129(127.6.83.129)	81.88.222.153	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 05:55:39 AM	127.6.83.129(127.6.83.129)	46.148.130.7	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 05:55:53 AM	127.6.83.129(127.6.83.129)	81.88.222.153	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 06:09:25 AM	127.6.83.129(127.6.83.129)	128.74.217.197	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.89 Mobile/12F69 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 06:12:26 AM	127.6.83.129(127.6.83.129)	5.228.47.244	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 06:18:04 AM	127.6.83.129(127.6.83.129)	81.88.222.153	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 06:29:52 AM	127.6.83.129(127.6.83.129)	109.95.74.138	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 07:03:26 AM	127.6.83.129(127.6.83.129)	31.135.235.101	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 07:05:11 AM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Sunday 27th of September 2015 07:16:20 AM	127.6.83.129(127.6.83.129)	95.73.184.126	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 07:16:28 AM	127.6.83.129(127.6.83.129)	31.135.235.101	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 07:17:57 AM	127.6.83.129(127.6.83.129)	95.73.184.126	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 07:22:50 AM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Sunday 27th of September 2015 07:32:35 AM	127.6.83.129(127.6.83.129)	5.228.224.30	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 07:32:55 AM	127.6.83.129(127.6.83.129)	5.228.224.30	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 07:54:54 AM	127.6.83.129(127.6.83.129)	79.164.27.190	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+
+======================
+Sunday 27th of September 2015 07:55:43 AM	127.6.83.129(127.6.83.129)	213.24.132.211	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25 (Edition Yx)
+
+======================
+Sunday 27th of September 2015 08:19:02 AM	127.6.83.129(127.6.83.129)	83.149.35.141	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+
+======================
+Sunday 27th of September 2015 08:19:09 AM	127.6.83.129(127.6.83.129)	83.149.35.141	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+
+======================
+Sunday 27th of September 2015 08:39:26 AM	127.6.83.129(127.6.83.129)	41.141.196.52	http://www.jarti.co/article-204	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.42 Safari/537.36
+
+======================
+Sunday 27th of September 2015 08:58:13 AM	127.6.83.129(127.6.83.129)	109.252.77.131	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 08:58:44 AM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Sunday 27th of September 2015 09:06:33 AM	127.6.83.129(127.6.83.129)	109.252.38.136	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.4.4; D2212 Build/18.5.B.0.26) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 09:07:37 AM	127.6.83.129(127.6.83.129)	109.252.77.131	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 09:10:10 AM	127.6.83.129(127.6.83.129)	109.252.38.136	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.4.4; D2212 Build/18.5.B.0.26) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 09:11:27 AM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Sunday 27th of September 2015 09:13:19 AM	127.6.83.129(127.6.83.129)	95.84.156.28	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+
+======================
+Sunday 27th of September 2015 09:19:13 AM	127.6.83.129(127.6.83.129)	95.84.204.15	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; GT-I9500 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 09:23:59 AM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Sunday 27th of September 2015 09:38:19 AM	127.6.83.129(127.6.83.129)	213.87.137.83	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 09:44:58 AM	127.6.83.129(127.6.83.129)	5.166.102.11	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Sunday 27th of September 2015 09:52:31 AM	127.6.83.129(127.6.83.129)	185.13.112.198	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 10:00:35 AM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 10:04:55 AM	127.6.83.129(127.6.83.129)	188.16.36.128	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D169 Safari/9537.53
+
+======================
+Sunday 27th of September 2015 10:06:02 AM	127.6.83.129(127.6.83.129)	128.72.235.40	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36 OPR/30.0.1835.125 (Edition Yx)
+
+======================
+Sunday 27th of September 2015 10:06:31 AM	127.6.83.129(127.6.83.129)	78.25.121.15	http://m.babyblog.ru/community/lenta/perambulator	Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Sunday 27th of September 2015 10:09:48 AM	127.6.83.129(127.6.83.129)	88.135.63.191	http://www.babyblog.ru/community/lenta/perambulator/12112	Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.17
+
+======================
+Sunday 27th of September 2015 10:19:00 AM	127.6.83.129(127.6.83.129)	31.135.231.181	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 10:20:36 AM	127.6.83.129(127.6.83.129)	95.26.167.153	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Sunday 27th of September 2015 10:24:54 AM	127.6.83.129(127.6.83.129)	5.166.102.11	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Sunday 27th of September 2015 10:26:29 AM	127.6.83.129(127.6.83.129)	93.75.89.116	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.4; M351 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 10:28:50 AM	127.6.83.129(127.6.83.129)	81.20.107.194	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 10:42:59 AM	127.6.83.129(127.6.83.129)	94.19.138.50	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A859 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 10:53:41 AM	127.6.83.129(127.6.83.129)	91.78.206.69	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+
+======================
+Sunday 27th of September 2015 11:02:07 AM	127.6.83.129(127.6.83.129)	109.252.20.193	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
+
+======================
+Sunday 27th of September 2015 11:08:51 AM	127.6.83.129(127.6.83.129)	83.220.236.182		Mozilla/5.0 (Linux; Android 5.0.2; HTC One Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 11:12:44 AM	127.6.83.129(127.6.83.129)	95.24.199.126, 66.102.9.126	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.2.2; A3-A11 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Sunday 27th of September 2015 11:22:20 AM	127.6.83.129(127.6.83.129)	217.10.42.62	http://www.babyblog.ru/community/post/cookingbook/3061299	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/7.1.8 Safari/537.85.17
+
+======================
+Sunday 27th of September 2015 11:36:33 AM	127.6.83.129(127.6.83.129)	5.228.224.30	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 11:50:12 AM	127.6.83.129(127.6.83.129)	46.175.26.155	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1
+
+======================
+Sunday 27th of September 2015 11:54:36 AM	127.6.83.129(127.6.83.129)	128.68.54.197	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.4.2; GT-I9192 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:01:26 PM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=70&t=131706&p=2877244&st=40	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:03:25 PM	127.6.83.129(127.6.83.129)	200.149.91.169	http://success-seo.com/try.php?u=http://geographycollector.com	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:07:35 PM	127.6.83.129(127.6.83.129)	5.149.157.31	http://www.taker.im/phpBB2/index.php?app=forums&module=post&section=post&do=edit_post&f=78&t=177015&p=2877474&st=	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:12:47 PM	127.6.83.129(127.6.83.129)	188.168.204.135	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:16:29 PM	127.6.83.129(127.6.83.129)	94.158.106.234	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:19:13 PM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Sunday 27th of September 2015 12:25:34 PM	127.6.83.129(127.6.83.129)	83.149.8.190	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:27:53 PM	127.6.83.129(127.6.83.129)	5.251.232.201	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.2.2; SM-T110 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:32:13 PM	127.6.83.129(127.6.83.129)	83.149.8.190	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:35:44 PM	127.6.83.129(127.6.83.129)	2.62.61.226	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 12:49:35 PM	127.6.83.129(127.6.83.129)	5.228.224.30	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:06:55 PM	127.6.83.129(127.6.83.129)	89.23.144.20	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 01:07:38 PM	127.6.83.129(127.6.83.129)	89.23.144.20	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+
+======================
+Sunday 27th of September 2015 01:21:35 PM	127.6.83.129(127.6.83.129)	77.40.68.244, 66.102.9.116	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI P6 S-U06 Build/HuaweiP6S-U06) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 01:24:05 PM	127.6.83.129(127.6.83.129)	213.87.145.36	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:26:03 PM	127.6.83.129(127.6.83.129)	213.87.145.36	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:26:53 PM	127.6.83.129(127.6.83.129)	212.252.163.210	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 4.4.2; GT-I9190 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 01:27:33 PM	127.6.83.129(127.6.83.129)	5.228.224.30	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:28:33 PM	127.6.83.129(127.6.83.129)	5.228.224.30	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:40:18 PM	127.6.83.129(127.6.83.129)	89.255.92.229	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:41:51 PM	127.6.83.129(127.6.83.129)	89.255.92.229	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:43:11 PM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Sunday 27th of September 2015 01:51:07 PM	127.6.83.129(127.6.83.129)	91.79.208.150	http://m.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T355 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Safari/537.36
+
+======================
+Sunday 27th of September 2015 01:51:14 PM	127.6.83.129(127.6.83.129)	89.255.92.229	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:53:22 PM	127.6.83.129(127.6.83.129)	94.51.193.224	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Sunday 27th of September 2015 01:57:55 PM	127.6.83.129(127.6.83.129)	94.45.203.159	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 01:59:21 PM	127.6.83.129(127.6.83.129)	77.37.177.150	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
+
+======================
+Sunday 27th of September 2015 01:59:56 PM	127.6.83.129(127.6.83.129)	128.72.239.117	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.4.2; GT-N5100 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Sunday 27th of September 2015 02:24:06 PM	127.6.83.129(127.6.83.129)	91.246.90.248	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 02:24:39 PM	127.6.83.129(127.6.83.129)	91.246.90.248	http://www.babyblog.ru/community/post/perambulator/3119441	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 02:28:46 PM	127.6.83.129(127.6.83.129)	37.110.42.119	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Opera/9.80 (Windows NT 6.2) Presto/2.12.388 Version/12.12
+
+======================
+Sunday 27th of September 2015 02:30:42 PM	127.6.83.129(127.6.83.129)	37.145.59.196	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.14 (KHTML, like Gecko) Version/6.0.1 Safari/536.26.14
+
+======================
+Sunday 27th of September 2015 02:43:38 PM	127.6.83.129(127.6.83.129)	62.33.107.119	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 02:44:59 PM	127.6.83.129(127.6.83.129)	62.33.107.119	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 02:46:47 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Sunday 27th of September 2015 02:49:32 PM	127.6.83.129(127.6.83.129)	213.87.146.90	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 03:00:20 PM	127.6.83.129(127.6.83.129)	131.253.38.67		Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+
+======================
+Sunday 27th of September 2015 03:18:07 PM	127.6.83.129(127.6.83.129)	46.147.209.94	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Sunday 27th of September 2015 03:28:25 PM	127.6.83.129(127.6.83.129)	178.22.193.195	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 5.0.2; LG-D410 Build/LRX22G.A1439780618) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.78 Mobile Safari/537.36 OPR/32.0.1953.96244
+
+======================
+Sunday 27th of September 2015 03:30:07 PM	127.6.83.129(127.6.83.129)	128.72.111.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
+
+======================
+Sunday 27th of September 2015 03:34:18 PM	127.6.83.129(127.6.83.129)	195.175.76.110	http://www.babyblog.ru/community/lenta/perambulator/12112	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 03:44:55 PM	127.6.83.129(127.6.83.129)	146.148.64.217		NerdyBot
+
+======================
+Sunday 27th of September 2015 03:45:31 PM	127.6.83.129(127.6.83.129)	95.30.46.13	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) YaBrowser/15.7.2357.2800.11 Mobile/12B410 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 04:02:29 PM	127.6.83.129(127.6.83.129)	46.39.53.55	http://www.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 04:03:44 PM	127.6.83.129(127.6.83.129)	93.75.48.179	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+
+======================
+Sunday 27th of September 2015 04:04:39 PM	127.6.83.129(127.6.83.129)	83.220.239.223		Mozilla/5.0 (Linux; Android 5.0.2; HTC One Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 04:09:57 PM	127.6.83.129(127.6.83.129)	94.31.177.159	http://www.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 5.0.2; SM-T531 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Safari/537.36
+
+======================
+Sunday 27th of September 2015 04:16:29 PM	127.6.83.129(127.6.83.129)	46.61.82.238	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+======================
+Sunday 27th of September 2015 04:22:33 PM	127.6.83.129(127.6.83.129)	109.187.42.23	http://www.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 04:23:38 PM	127.6.83.129(127.6.83.129)	109.187.42.23	http://www.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 04:46:44 PM	127.6.83.129(127.6.83.129)	46.188.124.94	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25 (Edition Yx)
+
+======================
+Sunday 27th of September 2015 05:14:51 PM	127.6.83.129(127.6.83.129)	94.158.106.234	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Sunday 27th of September 2015 05:28:49 PM	127.6.83.129(127.6.83.129)	109.206.154.79	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 05:29:05 PM	127.6.83.129(127.6.83.129)	37.145.239.94	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+
+======================
+Sunday 27th of September 2015 05:36:40 PM	127.6.83.129(127.6.83.129)	95.46.82.2	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Sunday 27th of September 2015 05:45:11 PM	127.6.83.129(127.6.83.129)	93.172.94.45	http://www.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 4.4.2; SM-T230 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Sunday 27th of September 2015 05:50:04 PM	127.6.83.129(127.6.83.129)	89.178.196.62	http://m.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+
+======================
+Sunday 27th of September 2015 05:55:52 PM	127.6.83.129(127.6.83.129)	89.178.196.62	http://m.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+
+======================
+Sunday 27th of September 2015 05:58:01 PM	127.6.83.129(127.6.83.129)	95.78.94.201	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 05:59:16 PM	127.6.83.129(127.6.83.129)	89.178.196.62	http://m.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+
+======================
+Sunday 27th of September 2015 06:03:10 PM	127.6.83.129(127.6.83.129)	46.188.121.24	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 06:12:37 PM	127.6.83.129(127.6.83.129)	46.159.247.54	http://forum.fanat1k.ru/vse-obo-vsem/7218-remont-9.html	Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; TurboPad TP705 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+
+======================
+Sunday 27th of September 2015 06:12:39 PM	127.6.83.129(127.6.83.129)	95.78.94.201	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 06:24:59 PM	127.6.83.129(127.6.83.129)	83.220.51.235		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+
+======================
+Sunday 27th of September 2015 06:26:36 PM	127.6.83.129(127.6.83.129)	185.62.188.14		Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+======================
+Sunday 27th of September 2015 06:27:42 PM	127.6.83.129(127.6.83.129)	176.194.35.24	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Sunday 27th of September 2015 06:30:31 PM	127.6.83.129(127.6.83.129)	217.112.2.14	http://m.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 5.1.1; D5803 Build/23.4.A.1.200) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 06:36:14 PM	127.6.83.129(127.6.83.129)	178.207.42.223	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 YaBrowser/15.4.2272.3716 Safari/537.36
+
+======================
+Sunday 27th of September 2015 06:38:31 PM	127.6.83.129(127.6.83.129)	176.125.199.169	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 06:41:40 PM	127.6.83.129(127.6.83.129)	95.72.135.96	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 06:55:05 PM	127.6.83.129(127.6.83.129)	188.32.171.137	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Sunday 27th of September 2015 07:18:51 PM	127.6.83.129(127.6.83.129)	46.188.124.46	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4
+
+======================
+Sunday 27th of September 2015 07:24:48 PM	127.6.83.129(127.6.83.129)	178.57.234.172	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+======================
+Sunday 27th of September 2015 07:31:43 PM	127.6.83.129(127.6.83.129)	95.73.6.98	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+======================
+Sunday 27th of September 2015 07:38:05 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:40:00 PM	127.6.83.129(127.6.83.129)	185.13.112.112	http://m.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-A500F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 07:41:22 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:41:29 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:41:29 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:41:31 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:41:33 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:41:50 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:41:52 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:41:53 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:43:03 PM	127.6.83.129(127.6.83.129)	178.219.42.212	http://m.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 5.1.1; D6603 Build/23.4.A.0.546) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 07:43:23 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:43:24 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:43:26 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:43:55 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:43:57 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:43:58 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 07:47:16 PM	127.6.83.129(127.6.83.129)	209.249.180.198		Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+======================
+Sunday 27th of September 2015 07:47:23 PM	127.6.83.129(127.6.83.129)	209.249.180.198	http://www.geographycollector.com/list/index_mongolia.php	Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+======================
+Sunday 27th of September 2015 07:47:37 PM	127.6.83.129(127.6.83.129)	209.249.180.198	http://www.geographycollector.com/list/index_ghana.php	Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+======================
+Sunday 27th of September 2015 07:53:34 PM	127.6.83.129(127.6.83.129)	89.255.92.39	http://m.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 4.4.2; SM-T525 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Safari/537.36
+
+======================
+Sunday 27th of September 2015 07:54:20 PM	127.6.83.129(127.6.83.129)	176.125.199.169	http://m.babyblog.ru/user/lenta/su4kovan-a	Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 07:58:29 PM	127.6.83.129(127.6.83.129)	207.244.70.35		Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+======================
+Sunday 27th of September 2015 08:01:58 PM	127.6.83.129(127.6.83.129)	176.193.231.242	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 9_0_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A404 Safari/601.1
+
+======================
+Sunday 27th of September 2015 08:03:16 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:03:17 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:03:19 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-200	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:06:03 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:07:36 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-2	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:07:49 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:07:50 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-1	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:08:39 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-3	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
+Sunday 27th of September 2015 08:12:52 PM	127.6.83.129(127.6.83.129)	46.237.4.46	http://m.babyblog.ru/community/lenta/perambulator/12111	Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A526 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
+
+======================
+Sunday 27th of September 2015 08:13:26 PM	127.6.83.129(127.6.83.129)	94.198.111.65	http://www.babyblog.ru/community/lenta_cat/perambulator/9399	Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+
+======================
+Sunday 27th of September 2015 08:14:52 PM	127.6.83.129(127.6.83.129)	83.220.51.235	http://www.jarti.co/article-78	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+
+======================
