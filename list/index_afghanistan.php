@@ -203,9 +203,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </ul>
   <ul> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- -->
   	 <!-- test --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- -->
-     
-     
-     
+    <!--  <a href="../ZIP_FileName.zip">Download PDF_FileName.pdf</a> -->
+    <script>
+      /*var iframe;    
+      iframe = document.createElement('iframe');
+      iframe.src = '../ZIP_FileName.zip';
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);*/
+    </script>
      <!-- end test --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> 
   </ul> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- --> <!-- -->
   <ul>

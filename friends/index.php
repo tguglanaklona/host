@@ -169,6 +169,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     You can <a href = "../">Return to main page</a>
   </p>
   <pre>
+    Свои <a href="http://grinworld.org/exhibitions/exhibition_17_1.htm">"Алые паруса"</a> Елена Неминущая встретила на крымском берегу. 
+    Край Грина, Айвазовского, Волошина и сегодня не оставляет 
+    равнодушными к своим красотам художников, писателей и поэтов.
     <a href = "http://funoldtime.blogspot.com">Блог "Смешное и давнее"</a>
     <a href='http://www.irdir.info/'>Интеллектуальный каталог сайтов</a>
   </pre>
