@@ -1,0 +1,2 @@
+$ie = New-Object -ComObject InternetExplorer.Application;
+$ie.Navigate('http://www.geographycollector.com');
