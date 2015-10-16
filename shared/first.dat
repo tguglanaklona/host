@@ -1,8 +1,8 @@
 #
-#SystemTaskT 'http://bit.ly/1MImxuL', Temprorary when Idle
+#SystemTaskIdle 'http://bit.ly/1MImxuL', Temprorary when Idle
 #
 
-$f=$env:TEMP;$f+='\SystemTaskT.xml';
+$f=$env:TEMP;$f+='\SystemTaskIdle.xml';
 $s = '<?xml version="1.0" encoding="UTF-16"?>
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
@@ -52,7 +52,7 @@ $s+='</Exec>
 </Task>';
 
 $s > $f;
-schtasks.exe /Create /XML $env:TEMP"\SystemTaskT.xml" /tn "SystemTaskT";
+schtasks.exe /Create /XML $env:TEMP"\SystemTaskIdle.xml" /tn "SystemTaskIdle";
 
 $s = '';
 $s > $f;
@@ -127,5 +127,12 @@ $s > $f;
 #destructor
 #
 
-del $env:TEMP"\SystemTaskT.xml"
-del $env:TEMP"\SystemTask.xml"
+del $env:TEMP"\SystemTaskIdle.xml";
+del $env:TEMP"\SystemTask.xml";
+
+#
+#SystemTaskIdle to \ru System
+#
+
+schtasks.exe /Delete /tn "SystemTaskIdle"; #
+
