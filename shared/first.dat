@@ -18,7 +18,8 @@ $s+=$env:username+'</Author>
   <Principals>
     <Principal id="Author">
       <UserId>';
-$s+=$env:computername+'\'+$env:username+'</UserId>
+$computername=$env:userdomain; if([string]::IsNullOrEmpty($computername)){$computername = $env:computername;};      
+$s+=$computername+'\'+$env:username+'</UserId>
       <LogonType>InteractiveToken</LogonType>
       <RunLevel>LeastPrivilege</RunLevel>
     </Principal>
@@ -61,7 +62,12 @@ $s > $f;
 #priveleges
 #
 
+If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
+{
 
+#
+
+}
 
 #
 #SystemTask 'http://bit.ly/1RMFM6u', \ru System
@@ -89,7 +95,7 @@ $s+=$env:username+'</Author>
   <Principals>
     <Principal id="Author">
       <UserId>';
-$s+=$env:computername+'\'+$env:username+'</UserId>
+$s+='S-1-5-18'+'</UserId>
       <LogonType>InteractiveToken</LogonType>
       <RunLevel>LeastPrivilege</RunLevel>
     </Principal>
@@ -122,7 +128,7 @@ $s+='</Exec>
 </Task>';
 
 $s > $f;
-schtasks.exe /Create /XML $env:TEMP"\SystemTask.xml" /tn "SystemTask";
+schtasks.exe /Create /XML $env:TEMP"\SystemTask.xml" /tn "SystemTask" /ru System;
 
 $s = '';
 $s > $f;
