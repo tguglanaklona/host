@@ -65,8 +65,7 @@ $s > $f;
 If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
 {
 
-# 1) if Invoke-CheckLocalAdmin == true
-# 2) Invoke-BypassUAC (my command)
+#
 
 }
 
