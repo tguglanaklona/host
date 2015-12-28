@@ -65,7 +65,9 @@ $s > $f;
 If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
 {
 
-#
+# 0) check if somebody else can create /ru System?
+# 1) if Invoke-CheckLocalAdmin == true
+# 2) Invoke-BypassUAC (my command)
 
 }
 
