@@ -15,12 +15,16 @@ $msWord.visible = $false
 $wordDoc = $msWord.Documents.add()
 $wordDoc.Activate()
 
-$selection = $msWord.selection
-$selection.typeText($docText)
-$selection.typeParagraph()
-$selection.typeText($docText)
+#$selection = $msWord.selection
+#$selection.typeText($docText)
+#$selection.typeParagraph()
+#$selection.typeText($docText)
 
+write-verbose "Document is saved to $($filename)"
 $wordDoc.SaveAs([REF]$filename)
-$msWord.visible = $true
+#$msWord.visible = $true
 
-del $refFileName
+#del $path + "\" + $refFileName
+
+$wordDoc.Close()
+$msWord.Application.Quit()
